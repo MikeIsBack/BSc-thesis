@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.18)  8 JUL 2023 11:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.18)  9 JUL 2023 11:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1137,24 +1137,24 @@ Package csquotes Info: Redefining alias 'default' -> 'italian'.
 (./thesis.aux)
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 1.
+LaTeX Font Info:    ... okay on input line 1.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 1.
+LaTeX Font Info:    ... okay on input line 1.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 1.
+LaTeX Font Info:    ... okay on input line 1.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 1.
+LaTeX Font Info:    ... okay on input line 1.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 1.
+LaTeX Font Info:    ... okay on input line 1.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 1.
+LaTeX Font Info:    ... okay on input line 1.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 1.
+LaTeX Font Info:    ... okay on input line 1.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 1.
+LaTeX Font Info:    ... okay on input line 1.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 1.
+LaTeX Font Info:    ... okay on input line 1.
  (c:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count486
@@ -1177,9 +1177,9 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring ON on input line 10.
-LaTeX Info: Redefining \it@ocap on input line 10.
-LaTeX Info: Redefining \it@ccap on input line 10.
+Package hyperref Info: Link coloring ON on input line 1.
+LaTeX Info: Redefining \it@ocap on input line 1.
+LaTeX Info: Redefining \it@ccap on input line 1.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: listings package is loaded.
@@ -1191,18 +1191,18 @@ Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 Package caption Info: supertabular package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \c@lstlisting=\count492
-LaTeX Info: Redefining \microtypecontext on input line 10.
-Package microtype Info: Applying patch `item' on input line 10.
-Package microtype Info: Applying patch `toc' on input line 10.
-Package microtype Info: Applying patch `eqnum' on input line 10.
-Package microtype Info: Applying patch `footnote' on input line 10.
+LaTeX Info: Redefining \microtypecontext on input line 1.
+Package microtype Info: Applying patch `item' on input line 1.
+Package microtype Info: Applying patch `toc' on input line 1.
+Package microtype Info: Applying patch `eqnum' on input line 1.
+Package microtype Info: Applying patch `footnote' on input line 1.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 10.
+LaTeX Info: Redefining \showhyphens on input line 1.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1232,8 +1232,8 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'thesis.bbl' not found.
 
 No file thesis.bbl.
-Package biblatex Info: Reference section=0 on input line 10.
-Package biblatex Info: Reference segment=0 on input line 10.
+Package biblatex Info: Reference section=0 on input line 1.
+Package biblatex Info: Reference segment=0 on input line 1.
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1281,7 +1281,7 @@ Package pdftex.def Info: images//unipd-logo.png  used on input line 22.
 
 
  <./images//unipd-logo.png>])
-(./preface/copyright.tex) (./preface/dedication.tex
+(./preface/copyright.tex) (./preface/summary.tex
 pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has 
 been already used, duplicate ignored
 <to be read again> 
@@ -1289,28 +1289,40 @@ been already used, duplicate ignored
 l.1 \cleardoublepage
                      [1
 
-]) (./preface/summary.tex [2
+]
+Underfull \hbox (badness 10000) in paragraph at lines 11--15
 
-])
-(./preface/acknowledgements.tex [3
+ []
+
+) (./preface/acknowledgements.tex [2
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 22--23
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 24--25
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
 
  []
 
-) (./preface/table-of-contents.tex [4
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+) (./preface/table-of-contents.tex [3
 
 ] (./thesis.toc)
 \tf@toc=\write8
 \openout8 = `thesis.toc'.
 
- [5
+ [4
 
 
 ] (./thesis.lof)
@@ -1322,99 +1334,64 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--25
 \tf@lot=\write10
 \openout10 = `thesis.lot'.
 
- [6
+ [5
 
 ]) (./chapters/introduzione.tex
 Capitolo 1.
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
+! LaTeX Error: There's no line here to end.
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--8
-
- []
-
-
-LaTeX Warning: Citation 'site:agile-manifesto' on page 1 undefined on input lin
-e 10.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--11
-
- []
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 \\
+       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 
-LaTeX Warning: Citation 'womak:lean-thinking' on page 1 undefined on input line
- 13.
+! LaTeX Error: There's no line here to end.
 
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.29 \noindent
+               Riguardo la stesura del testo, relativamente al documento son...
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--14
-
- []
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 [1
 
 
 
 
-]) (./chapters/processi.tex [2]
+]) (./chapters/stage.tex [2]
 Capitolo 2.
-LaTeX Font Info:    Trying to load font information for T1+cmss on input line 4
-.
-(c:/texlive/2022/texmf-dist/tex/latex/base/t1cmss.fd
-File: t1cmss.fd 2022/07/10 v2.5l Standard LaTeX font definitions
-)
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `cmss' (encoding: T1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
-
- []
-
-) (./chapters/kick-off.tex [3
+) (./chapters/analisi-requisiti.tex [3
 
 ]
 Capitolo 3.
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 10--12
-
- []
-
-) (./chapters/concept.tex [4
-
-]
-Capitolo 4.
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
-
- []
-
-<images//usecase/scenario-principale.png, id=168, 463.13025pt x 236.082pt>
+<images//usecase/scenario-principale.png, id=150, 463.13025pt x 236.082pt>
 File: images//usecase/scenario-principale.png Graphic file (type png)
 <use images//usecase/scenario-principale.png>
 Package pdftex.def Info: images//usecase/scenario-principale.png  used on input
- line 14.
+ line 11.
 (pdftex.def)             Requested size: 334.79773pt x 170.66333pt.
-[5
+[4
 
- <./images//usecase/scenario-principale.png>] [6])
-(./chapters/product-prototype.tex [7]
+ <./images//usecase/scenario-principale.png>] [5])
+(./chapters/strumenti-utilizzati.tex [6]
+Capitolo 4.
+) (./chapters/progettazione.tex [7
+
+]
 Capitolo 5.
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
-
- []
-
-) (./chapters/product-design.tex [8
+) (./chapters/prodotto-finale.tex [8
 
 ]
 Capitolo 6.
@@ -1422,16 +1399,12 @@ Capitolo 6.
 
 ]
 Capitolo 7.
-) (./appendix/appendice-a.tex [10
-
-]
-Appendice A.
-) [11
+) [10
 
 ]
 No file thesis.acr.
 No file thesis.gls.
-(./appendix/bibliography.tex [12
+(./appendix/bibliography.tex [11
 
 ]
 
@@ -1446,7 +1419,7 @@ Package biblatex Warning: Type 'online' not found on input line 10.
 
 LaTeX Warning: Empty bibliography on input line 10.
 
-) [13
+) [12
 
 
 ] (./thesis.aux)
@@ -1463,46 +1436,39 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 
  ) ) 
 Here is how much of TeX's memory you used:
- 37966 strings out of 476093
- 669552 string characters out of 5795582
+ 37654 strings out of 476093
+ 663802 string characters out of 5795582
  1861787 words of memory out of 5000000
- 57454 multiletter control sequences out of 15000+600000
- 541720 words of font info for 152 fonts, out of 8000000 for 9000
+ 57204 multiletter control sequences out of 15000+600000
+ 534393 words of font info for 122 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  96i,10n,125p,2259b,2528s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 pdfTeX warning (dest): name{glo:uml} has been referenced but does not exist, re
 placed by a fixed one
 
-
-pdfTeX warning (dest): name{glo:api} has been referenced but does not exist, re
-placed by a fixed one
-
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/texliv
 e/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2022/te
-xmf-dist/fonts/type1/public/cm-super/sfbx0800.pfb><c:/texlive/2022/texmf-dist/f
-onts/type1/public/cm-super/sfbx0900.pfb><c:/texlive/2022/texmf-dist/fonts/type1
-/public/cm-super/sfbx1000.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm
--super/sfbx1200.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfb
-x1440.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb>
-<c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb><c:/texliv
-e/2022/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb><c:/texlive/2022/tex
-mf-dist/fonts/type1/public/cm-super/sfcc1000.pfb><c:/texlive/2022/texmf-dist/fo
-nts/type1/public/cm-super/sfcc1200.pfb><c:/texlive/2022/texmf-dist/fonts/type1/
-public/cm-super/sfcc1440.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-
-super/sfrm0600.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm
-0700.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><
-c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb><c:/texlive
-/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2022/texm
-f-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2022/texmf-dist/fon
-ts/type1/public/cm-super/sfsi1000.pfb><c:/texlive/2022/texmf-dist/fonts/type1/p
-ublic/cm-super/sfsl1000.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-s
-uper/sfsl1200.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfti1
-000.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on thesis.pdf (20 pages, 508879 bytes).
+xmf-dist/fonts/type1/public/cm-super/sfbx0900.pfb><c:/texlive/2022/texmf-dist/f
+onts/type1/public/cm-super/sfbx1000.pfb><c:/texlive/2022/texmf-dist/fonts/type1
+/public/cm-super/sfbx1200.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm
+-super/sfbx1440.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfb
+x1728.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb>
+<c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb><c:/texliv
+e/2022/texmf-dist/fonts/type1/public/cm-super/sfcc1000.pfb><c:/texlive/2022/tex
+mf-dist/fonts/type1/public/cm-super/sfcc1200.pfb><c:/texlive/2022/texmf-dist/fo
+nts/type1/public/cm-super/sfcc1440.pfb><c:/texlive/2022/texmf-dist/fonts/type1/
+public/cm-super/sfrm0700.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-
+super/sfrm0900.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm
+1000.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><
+c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsl1000.pfb><c:/texlive
+/2022/texmf-dist/fonts/type1/public/cm-super/sfsl1200.pfb><c:/texlive/2022/texm
+f-dist/fonts/type1/public/cm-super/sfti1000.pfb><c:/texlive/2022/texmf-dist/fon
+ts/type1/public/cm-super/sfti1200.pfb>
+Output written on thesis.pdf (18 pages, 447615 bytes).
 PDF statistics:
- 439 PDF objects out of 1000 (max. 8388607)
- 362 compressed objects within 4 object streams
- 78 named destinations out of 1000 (max. 500000)
- 67879 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 400 PDF objects out of 1000 (max. 8388607)
+ 333 compressed objects within 4 object streams
+ 69 named destinations out of 1000 (max. 500000)
+ 53543 words of extra memory for PDF output out of 61914 (max. 10000000)
 
