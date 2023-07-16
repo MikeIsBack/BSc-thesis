@@ -1,9 +1,46 @@
 \chapter{Descrizione dello stage}
 \label{cap:descrizione-stage}
 
-\intro{Descrizione del capitolo}
+\intro{Il seguente capitolo ha la funzione di introdurre l'attività di stage definendo quella che è la richiesta aziendale e i vincoli di progetto da rispettare nello sviluppo dell'applicativo commissionato.}
 
-\section{Progetto}
+\setlength{\parskip}{3ex}
 
+\section{Il problema}
+L'azienda CWBI realizza prodotti software su commissione diretta dei clienti, oltre ad applicativi pensati per raggiungere nuovi acquirenti. L'azienda necessita di una metodologia efficiente per tenere traccia dei contatti con i clienti e delle offerte formulate per uno o più  progetti di interesse. Attualmente la soluzione aziendale si basa su una cartella in rete dove sono contenuti tutti i documenti e i contatti con i clienti negli ultimi 10 anni di attività.
+
+\setlength{\parskip}{3ex}
+
+\noindent Ciò che l'azienda desidera è un applicativo web che consenta di creare, organizzare e tenere traccia di queste informazioni in modo da creare un ambiente di lavoro/tracciamento più efficiente ed efficace. 
+
+\section{Il progetto}
+L'obiettivo dello stage riguarda quindi lo sviluppo di un modulo web per la webapp aziendale \textit{CW GEST} preesistente. In particolare ciò che deve essere sviluppato è un sistema di gestione delle campagne a supporto dell'area marketing nel contesto aziendale, ovvero l'ambiente bancario/fintech. 
+
+\setlength{\parskip}{3ex}
+
+\noindent La webapp sarà utilizzata dai dipendenti di CWBI e dovrà consentire di aggiungere, visualizzare e aggiornare la lista completa dei propri clienti, con annessi i progetti richiesti e le offerte formulate per essi. 
+
+\setlength{\parskip}{3ex}
+
+\noindent In particolare, il flusso principale è il seguente:
+\begin{enumerate}
+\item contatto con il cliente e raccolta delle informazioni;
+\item definizione del progetto;
+\item creazione dell'offerta;
+\item approvazione dell'offerta.
+\end{enumerate}
 
 \section{Vincoli del progetto}
+\subsection{Vincoli temporali}
+Come citato nel regolamento delle attività di stage il tempo limite delle attività si colloca tra le 300 e le 320 ore; motivo per il quale questo risulta essere il tempo limite nel realizzare il prodotto commissionato. È stato quindi redatto un piano di lavoro, tenente conto del limite massimo consentito, che organizza le attività in 8 settimane individualmente composte da 40 ore lavorative.  
+
+\subsection{Vincoli metodologici}
+Per il versionamento del codice l'azienda ha imposto l'utilizzo di SVN, un servizio di repository utilizzato dall'azienda. 
+
+\subsection{Vincoli tecnologici}
+Al fine di raggiungere gli obiettivi prefissati l'azienda ha imposti i seguenti vincoli tecnologici:
+\begin{itemize}
+\item utilizzo di Java e dei framework Spring MVC e Hibernate per lo sviluppo lato server;
+\item utilizzo del framework Bootstrap, JSTL e della libreria jQuery per lo sviluppo lato client;
+\item utilizzo di HTML5, CSS3 e JavaScript come supporto allo sviluppo lato client.
+\end{itemize}
+Non sono stati imposti limiti sull’utilizzo di eventuali tecnologie aggiuntive.
