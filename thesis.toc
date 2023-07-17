@@ -11,40 +11,40 @@
 \contentsline {subsection}{\numberline {2.3.1}Vincoli temporali}{5}{subsection.2.3.1}%
 \contentsline {subsection}{\numberline {2.3.2}Vincoli metodologici}{5}{subsection.2.3.2}%
 \contentsline {subsection}{\numberline {2.3.3}Vincoli tecnologici}{5}{subsection.2.3.3}%
-\contentsline {chapter}{\numberline {3}Analisi dei requisiti}{6}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Casi d'uso}{6}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Definizione e tracciamento dei requisiti}{6}{section.3.2}%
-\contentsline {chapter}{\numberline {4}Strumenti utilizzati}{7}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Ambiente di lavoro}{7}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Framework}{7}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Spring}{8}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}Hibernate}{8}{subsection.4.2.2}%
-\contentsline {subsection}{\numberline {4.2.3}Bootstrap}{8}{subsection.4.2.3}%
-\contentsline {subsection}{\numberline {4.2.4}Apache Struts}{8}{subsection.4.2.4}%
-\contentsline {section}{\numberline {4.3}Strumenti di codifica}{8}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}Java}{8}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}HTML5, CSS3 e JavaScript}{8}{subsection.4.3.2}%
-\contentsline {section}{\numberline {4.4}Librerie a supporto della codifica}{8}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}Apache commons}{8}{subsection.4.4.1}%
-\contentsline {subsection}{\numberline {4.4.2}JSTL}{8}{subsection.4.4.2}%
-\contentsline {subsection}{\numberline {4.4.3}WRO4J}{8}{subsection.4.4.3}%
-\contentsline {section}{\numberline {4.5}IDE}{8}{section.4.5}%
-\contentsline {subsection}{\numberline {4.5.1}Eclipse}{8}{subsection.4.5.1}%
-\contentsline {chapter}{\numberline {5}Progettazione}{9}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Architettura}{9}{section.5.1}%
-\contentsline {subsection}{\numberline {5.1.1}Pattern MDA}{9}{subsection.5.1.1}%
-\contentsline {subsection}{\numberline {5.1.2}Pattern MVC}{9}{subsection.5.1.2}%
-\contentsline {section}{\numberline {5.2}Design Pattern utilizzati}{9}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}Pattern IoC}{9}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.2.2}Pattern DAO}{9}{subsection.5.2.2}%
-\contentsline {chapter}{\numberline {6}Prodotto finale}{10}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Pagina 1 della webapp}{10}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Pagina 2 della webapp}{10}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Pagina 3 della webapp}{10}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Pagina 4 della webapp}{10}{section.6.4}%
-\contentsline {section}{\numberline {6.5}Pagina 5 della webapp}{10}{section.6.5}%
-\contentsline {section}{\numberline {6.6}Pagina N della webapp}{10}{section.6.6}%
-\contentsline {chapter}{\numberline {7}Conclusioni}{11}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Test e validazione}{11}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Resoconto dello stage}{11}{section.7.2}%
-\contentsline {chapter}{Bibliografia}{13}{chapter*.12}%
+\contentsline {chapter}{\numberline {3}Analisi dei requisiti}{7}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Casi d'uso}{7}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Definizione e tracciamento dei requisiti}{7}{section.3.2}%
+\contentsline {chapter}{\numberline {4}Strumenti utilizzati}{8}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Ambiente di lavoro}{8}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Framework}{8}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Spring}{9}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Hibernate}{9}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Bootstrap}{9}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}Apache Struts}{9}{subsection.4.2.4}%
+\contentsline {section}{\numberline {4.3}Strumenti di codifica}{9}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Java}{9}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}HTML5, CSS3 e JavaScript}{9}{subsection.4.3.2}%
+\contentsline {section}{\numberline {4.4}Librerie a supporto della codifica}{9}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Apache commons}{9}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}JSTL}{9}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}WRO4J}{9}{subsection.4.4.3}%
+\contentsline {section}{\numberline {4.5}IDE}{9}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Eclipse}{9}{subsection.4.5.1}%
+\contentsline {chapter}{\numberline {5}Progettazione}{10}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Architettura}{10}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Pattern MDA}{10}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Pattern MVC}{10}{subsection.5.1.2}%
+\contentsline {section}{\numberline {5.2}Design Pattern utilizzati}{10}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Pattern IoC}{10}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Pattern DAO}{10}{subsection.5.2.2}%
+\contentsline {chapter}{\numberline {6}Prodotto finale}{11}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Pagina 1 della webapp}{11}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Pagina 2 della webapp}{11}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Pagina 3 della webapp}{11}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Pagina 4 della webapp}{11}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Pagina 5 della webapp}{11}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Pagina N della webapp}{11}{section.6.6}%
+\contentsline {chapter}{\numberline {7}Conclusioni}{12}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Test e validazione}{12}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Resoconto dello stage}{12}{section.7.2}%
+\contentsline {chapter}{Bibliografia}{14}{chapter*.13}%

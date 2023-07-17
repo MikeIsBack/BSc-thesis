@@ -7,13 +7,13 @@ MODULO CAMPAIGN
 
 ClienteDB(String nome, String descrizione, String partitaIva, String codiceFiscale)
 
-ProgettoDB(String codice, String titolo, String descrizione, String statoAvanzamento, Integer percentualeAvanzamento, GregorianCalendar dataInizio) // es. codice "2022.70", statoAvanzamento={aperto,chiuso,sospeso}
+ProgettoClienteDB(Long idClienteDB, String codice, String titolo, String descrizione, String statoAvanzamento, Integer percentualeAvanzamento, GregorianCalendar dataInizio) // es. codice "2022.70", statoAvanzamento={aperto,chiuso,sospeso}, idClienteDB sempre uguale a CWBI (cliente primario)
 
-ProgettoClienteDB(Long idClienteDB, Long idProgettoDB) // gestisce la relazione N:N
+ProgettoCliente(ClienteDB clienteDB, List<ProgettoClienteDB> progettoClienteDBs)
 
-ProgettoCliente(ClienteDB clienteDB, List<ProgettoClienteDB> progettoClienteDBs) // dato l'id del cliente mi recupero tutti gli idProgetto a lui associati richiamando la tabella "ProgettoClienteDB"
+CorrelazioneClienteDB(Long idClienteDB, Long idProgettoClienteDB) // relazione N:N, idClienteDB è un cliente secondario
 
-OffertaDB(String codice, String descrizione, String stato, BigDecimal imponibile1, BigDecimal imponibile2, BigDecimal imponibile3, Long idProgettoClienteDB) // stato={in preparazione,in accettazione,accettata}
+OffertaDB(String codice, String descrizione, String stato, BigDecimal imponibile1, BigDecimal imponibile2, BigDecimal imponibile3, Long correlazioneClienteDB) // stato={in preparazione,in accettazione,accettata}
 
 
 ====
