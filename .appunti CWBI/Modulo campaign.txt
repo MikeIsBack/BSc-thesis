@@ -1,7 +1,7 @@
 ==> Approccio MDA: l'architettura c'è e consente di sviluppare qualunque tipo di applicativo, lo sforzo si sposta tutto sulla fase di analisi e quindi sul "come farlo" rispetto al "farlo".
 
 ===============
-Modulo Campaign
+MODULO CAMPAIGN
 ===============
 
 ClienteDB(String codice, String descrizione, String partitaIva, String codiceFiscale)

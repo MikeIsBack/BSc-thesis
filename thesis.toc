@@ -17,12 +17,24 @@
 \contentsline {chapter}{\numberline {4}Strumenti utilizzati}{7}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Ambiente di lavoro}{7}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Framework}{7}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Strumenti di codifica}{7}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Librerie a supporto della codifica}{7}{section.4.4}%
+\contentsline {subsection}{\numberline {4.2.1}Spring}{8}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Hibernate}{8}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Bootstrap}{8}{subsection.4.2.3}%
+\contentsline {section}{\numberline {4.3}Strumenti di codifica}{8}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Java}{8}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}HTML5, CSS3 e JavaScript}{8}{subsection.4.3.2}%
+\contentsline {section}{\numberline {4.4}Librerie a supporto della codifica}{8}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Apache commons}{8}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}WRO4J}{8}{subsection.4.4.2}%
 \contentsline {section}{\numberline {4.5}IDE}{8}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Eclipse}{8}{subsection.4.5.1}%
 \contentsline {chapter}{\numberline {5}Progettazione}{9}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Architettura}{9}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Pattern MDA}{9}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Pattern MVC}{9}{subsection.5.1.2}%
 \contentsline {section}{\numberline {5.2}Design Pattern utilizzati}{9}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Pattern IoC}{9}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Pattern DAO}{9}{subsection.5.2.2}%
 \contentsline {chapter}{\numberline {6}Prodotto finale}{10}{chapter.6}%
 \contentsline {section}{\numberline {6.1}Pagina 1 della webapp}{10}{section.6.1}%
 \contentsline {section}{\numberline {6.2}Pagina 2 della webapp}{10}{section.6.2}%
