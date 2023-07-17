@@ -7,7 +7,7 @@ MODULO CAMPAIGN
 
 ClienteDB(String nome, String descrizione, String partitaIva, String codiceFiscale)
 
-ProgettoClienteDB(Long idClienteDB, String codice, String titolo, String descrizione, String statoAvanzamento, Integer percentualeAvanzamento, GregorianCalendar dataInizio) // es. codice "2022.70", statoAvanzamento={aperto,chiuso,sospeso}, idClienteDB sempre uguale a CWBI (cliente primario)
+ProgettoClienteDB(Long idCliente, Long idUserReference, String codice, String titolo, String descrizione, String statoAvanzamento, Integer percentualeAvanzamento, GregorianCalendar dataInizio) // es. codice "2022.70", statoAvanzamento={aperto,chiuso,sospeso}, idClienteDB sempre uguale a CWBI (cliente primario)
 
 ProgettoCliente(ClienteDB clienteDB, List<ProgettoClienteDB> progettoClienteDBs)
 
