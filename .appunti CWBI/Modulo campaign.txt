@@ -1,26 +1,36 @@
 ==> Approccio MDA: l'architettura c'è e consente di sviluppare qualunque tipo di applicativo, lo sforzo si sposta tutto sulla fase di analisi e quindi sul "come farlo" rispetto al "farlo".
 
+
 ===============
 MODULO CAMPAIGN
 ===============
 
-ClienteDB(String codice, String descrizione, String partitaIva, String codiceFiscale)
+ClienteDB(String nome, String descrizione, String partitaIva, String codiceFiscale)
 
 ProgettoDB(String codice, String titolo, String descrizione, String statoAvanzamento, Integer percentualeAvanzamento, GregorianCalendar dataInizio) // es. codice "2022.70", statoAvanzamento={aperto,chiuso,sospeso}
 
 ProgettoClienteDB(Long idClienteDB, Long idProgettoDB) // gestisce la relazione N:N
 
-ProgettoCliente(ClienteDB clienteDB, List<ProgettoClienteDB> progettoClienteDBs) // dato l'id del cliente mi recupero tutti gli idProgetto a lui associati richiamandao la tabella "ProgettoClienteDB"
+ProgettoCliente(ClienteDB clienteDB, List<ProgettoClienteDB> progettoClienteDBs) // dato l'id del cliente mi recupero tutti gli idProgetto a lui associati richiamando la tabella "ProgettoClienteDB"
 
-OffertaDB(GregorianCalendar data, String codice, String titolo, String stato, BigDecimal imponibile1, BigDecimal imponibile2, BigDecimal imponibile3, Long idProgettoClienteDB) // stato={in preparazione,in accettazione,accettata}
-
-
-
-ODA --> identificativo cliente (ordine di acquisto)
-costo fisso e costo ricorrente
+OffertaDB(String codice, String descrizione, String stato, BigDecimal imponibile1, BigDecimal imponibile2, BigDecimal imponibile3, Long idProgettoClienteDB) // stato={in preparazione,in accettazione,accettata}
 
 
+====
+NOTE
+====
 
-WORKFLOW: cliente-->associo il progetto-->creo l'offerta-->approvo l'offerta
+- in ClienteFormAction utilizzo la tabella ProgettoClienteDB per memorizzare n volte gli n progetti che assegno al cliente (guardare ProgettoUserFormAction metodo execute())
+
+- ProgettoCliente rappresenta la pagina di dettaglio di un singolo cliente, con annessi tutti i suoi progetti, se ce ne sono
+
+- ODA --> identificativo cliente (ordine di acquisto)
+
+
+========
+WORKFLOW
+========
+
+ottengo i contatti del cliente --> associo il progetto --> creo l'offerta --> approvo l'offerta
 
 richiesta da un cliente (ancora destrutturata, senza offerta definita ma solo con il progetto --> solo raccolta delle informazioni di contatto), la registro, associo il cliente ad un progetto (più progetti per più clienti N:N), passo poi alla preparazione dell'offerta.

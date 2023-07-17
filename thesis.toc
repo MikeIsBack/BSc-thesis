@@ -20,12 +20,14 @@
 \contentsline {subsection}{\numberline {4.2.1}Spring}{8}{subsection.4.2.1}%
 \contentsline {subsection}{\numberline {4.2.2}Hibernate}{8}{subsection.4.2.2}%
 \contentsline {subsection}{\numberline {4.2.3}Bootstrap}{8}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}Apache Struts}{8}{subsection.4.2.4}%
 \contentsline {section}{\numberline {4.3}Strumenti di codifica}{8}{section.4.3}%
 \contentsline {subsection}{\numberline {4.3.1}Java}{8}{subsection.4.3.1}%
 \contentsline {subsection}{\numberline {4.3.2}HTML5, CSS3 e JavaScript}{8}{subsection.4.3.2}%
 \contentsline {section}{\numberline {4.4}Librerie a supporto della codifica}{8}{section.4.4}%
 \contentsline {subsection}{\numberline {4.4.1}Apache commons}{8}{subsection.4.4.1}%
-\contentsline {subsection}{\numberline {4.4.2}WRO4J}{8}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.2}JSTL}{8}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}WRO4J}{8}{subsection.4.4.3}%
 \contentsline {section}{\numberline {4.5}IDE}{8}{section.4.5}%
 \contentsline {subsection}{\numberline {4.5.1}Eclipse}{8}{subsection.4.5.1}%
 \contentsline {chapter}{\numberline {5}Progettazione}{9}{chapter.5}%
