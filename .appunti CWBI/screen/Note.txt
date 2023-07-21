@@ -1,0 +1,6 @@
+=======
+APPUNTI
+=======
+
+1) OFFERTA FORM (NEW E MODIFICA): 
+- i progetti selezionabili corrispondono SOLO a quelli con stato "OPEN" associati al cliente di cui si sta creando l'offerta
