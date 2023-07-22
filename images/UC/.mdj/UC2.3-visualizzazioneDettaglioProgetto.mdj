@@ -79,7 +79,7 @@
 											"top": 15,
 											"width": 441.73779296875,
 											"height": 13,
-											"text": "UC2.3 Visualizzazione singolo progetto"
+											"text": "UC2.3 Visualizzazione progetto in dettaglio"
 										},
 										{
 											"_type": "LabelView",
@@ -5953,7 +5953,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGJfqO6I7Lp9qU="
 					},
-					"name": "UC2.3 Visualizzazione singolo progetto"
+					"name": "UC2.3 Visualizzazione progetto in dettaglio"
 				},
 				{
 					"_type": "UMLUseCase",

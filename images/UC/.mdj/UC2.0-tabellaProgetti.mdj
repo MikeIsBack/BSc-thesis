@@ -756,7 +756,7 @@
 											"top": 296,
 											"width": 160,
 											"height": 26,
-											"text": "UC2.3 Visualizzazione singolo progetto",
+											"text": "UC2.3 Visualizzazione progetto in dettaglio",
 											"wordWrap": true
 										},
 										{
@@ -1844,7 +1844,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGJfpFZ1g0DJU8="
 					},
-					"name": "UC2.3 Visualizzazione singolo progetto"
+					"name": "UC2.3 Visualizzazione progetto in dettaglio"
 				}
 			]
 		}
