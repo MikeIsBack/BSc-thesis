@@ -261,7 +261,7 @@
 											"top": 31,
 											"width": 799,
 											"height": 13,
-											"text": "UC1 Nuovo progetto"
+											"text": "UC1 Crea-Modifica progetto"
 										},
 										{
 											"_type": "LabelView",
@@ -5541,7 +5541,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGJfRg3pk2jBHA="
 					},
-					"name": "UC1 Nuovo progetto"
+					"name": "UC1 Crea-Modifica progetto"
 				},
 				{
 					"_type": "UMLUseCase",
