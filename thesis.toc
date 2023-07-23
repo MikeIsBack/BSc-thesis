@@ -13,38 +13,55 @@
 \contentsline {subsection}{\numberline {2.3.3}Vincoli tecnologici}{6}{subsection.2.3.3}%
 \contentsline {chapter}{\numberline {3}Analisi dei requisiti}{7}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Casi d'uso}{7}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Definizione e tracciamento dei requisiti}{8}{section.3.2}%
-\contentsline {chapter}{\numberline {4}Strumenti utilizzati}{9}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Ambiente di lavoro}{9}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Framework}{9}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Spring}{10}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}Hibernate}{10}{subsection.4.2.2}%
-\contentsline {subsection}{\numberline {4.2.3}Bootstrap}{10}{subsection.4.2.3}%
-\contentsline {subsection}{\numberline {4.2.4}Apache Struts}{10}{subsection.4.2.4}%
-\contentsline {section}{\numberline {4.3}Strumenti di codifica}{10}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}Java}{10}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}HTML5, CSS3 e JavaScript}{10}{subsection.4.3.2}%
-\contentsline {section}{\numberline {4.4}Librerie a supporto della codifica}{10}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}Apache commons}{10}{subsection.4.4.1}%
-\contentsline {subsection}{\numberline {4.4.2}JSTL}{10}{subsection.4.4.2}%
-\contentsline {subsection}{\numberline {4.4.3}WRO4J}{10}{subsection.4.4.3}%
-\contentsline {section}{\numberline {4.5}IDE}{10}{section.4.5}%
-\contentsline {subsection}{\numberline {4.5.1}Eclipse}{10}{subsection.4.5.1}%
-\contentsline {chapter}{\numberline {5}Progettazione}{11}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Architettura}{11}{section.5.1}%
-\contentsline {subsection}{\numberline {5.1.1}Pattern MDA}{11}{subsection.5.1.1}%
-\contentsline {subsection}{\numberline {5.1.2}Pattern MVC}{11}{subsection.5.1.2}%
-\contentsline {section}{\numberline {5.2}Design Pattern utilizzati}{11}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}Pattern IoC}{11}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.2.2}Pattern DAO}{11}{subsection.5.2.2}%
-\contentsline {chapter}{\numberline {6}Prodotto finale}{12}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Pagina 1 della webapp}{12}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Pagina 2 della webapp}{12}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Pagina 3 della webapp}{12}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Pagina 4 della webapp}{12}{section.6.4}%
-\contentsline {section}{\numberline {6.5}Pagina 5 della webapp}{12}{section.6.5}%
-\contentsline {section}{\numberline {6.6}Pagina N della webapp}{12}{section.6.6}%
-\contentsline {chapter}{\numberline {7}Conclusioni}{13}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Test e validazione}{13}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Resoconto dello stage}{13}{section.7.2}%
-\contentsline {chapter}{Bibliografia}{15}{chapter*.14}%
+\contentsline {subsection}{\numberline {3.1.1}UC0: Menu}{8}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}UC1: Crea-Modifica progetto}{9}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}UC2: Tabella progetti}{11}{subsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.1.4}UC2.1: Ricerca progetti}{12}{subsection.3.1.4}%
+\contentsline {subsection}{\numberline {3.1.5}UC2.2: Visualizzazione lista progetti}{13}{subsection.3.1.5}%
+\contentsline {subsection}{\numberline {3.1.6}UC2.3: Visualizzazione progetto in dettaglio}{14}{subsection.3.1.6}%
+\contentsline {subsection}{\numberline {3.1.7}UC3: Tabella progetti aperti}{16}{subsection.3.1.7}%
+\contentsline {subsection}{\numberline {3.1.8}UC4: Tabella clienti}{17}{subsection.3.1.8}%
+\contentsline {subsection}{\numberline {3.1.9}UC4.1: Ricerca clienti}{18}{subsection.3.1.9}%
+\contentsline {subsection}{\numberline {3.1.10}UC4.2: Visualizzazione lista clienti}{19}{subsection.3.1.10}%
+\contentsline {subsection}{\numberline {3.1.11}UC4.3: Visualizzazione cliente in dettaglio}{20}{subsection.3.1.11}%
+\contentsline {subsection}{\numberline {3.1.12}UC4.3.3: Visualizzazione offerte correlate}{21}{subsection.3.1.12}%
+\contentsline {subsection}{\numberline {3.1.13}UC4.3.3.1: Crea-Modifica offerta}{22}{subsection.3.1.13}%
+\contentsline {subsection}{\numberline {3.1.14}UC5: Tabella offerte}{23}{subsection.3.1.14}%
+\contentsline {subsection}{\numberline {3.1.15}UC5.1: Ricerca offerte}{24}{subsection.3.1.15}%
+\contentsline {subsection}{\numberline {3.1.16}UC5.2: Visualizzazione lista offerte}{25}{subsection.3.1.16}%
+\contentsline {subsection}{\numberline {3.1.17}UC5.3: Visualizzazione offerta in dettaglio}{26}{subsection.3.1.17}%
+\contentsline {section}{\numberline {3.2}Definizione e tracciamento dei requisiti}{28}{section.3.2}%
+\contentsline {chapter}{\numberline {4}Strumenti utilizzati}{29}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Ambiente di lavoro}{29}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Framework}{29}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Spring}{30}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Hibernate}{30}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Bootstrap}{30}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}Apache Struts}{30}{subsection.4.2.4}%
+\contentsline {section}{\numberline {4.3}Strumenti di codifica}{30}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Java}{30}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}HTML5, CSS3 e JavaScript}{30}{subsection.4.3.2}%
+\contentsline {section}{\numberline {4.4}Librerie a supporto della codifica}{30}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Apache commons}{30}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}JSTL}{30}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}WRO4J}{30}{subsection.4.4.3}%
+\contentsline {section}{\numberline {4.5}IDE}{30}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Eclipse}{30}{subsection.4.5.1}%
+\contentsline {chapter}{\numberline {5}Progettazione}{31}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Architettura}{31}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Pattern MDA}{31}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Pattern MVC}{31}{subsection.5.1.2}%
+\contentsline {section}{\numberline {5.2}Design Pattern utilizzati}{31}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Pattern IoC}{31}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Pattern DAO}{31}{subsection.5.2.2}%
+\contentsline {chapter}{\numberline {6}Prodotto finale}{32}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Pagina 1 della webapp}{32}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Pagina 2 della webapp}{32}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Pagina 3 della webapp}{32}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Pagina 4 della webapp}{32}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Pagina 5 della webapp}{32}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Pagina N della webapp}{32}{section.6.6}%
+\contentsline {chapter}{\numberline {7}Conclusioni}{33}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Test e validazione}{33}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Resoconto dello stage}{33}{section.7.2}%
+\contentsline {chapter}{Bibliografia}{35}{chapter*.31}%

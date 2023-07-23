@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.18)  22 JUL 2023 19:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.18)  23 JUL 2023 12:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1376,7 +1376,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmss' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-<images//../images/CWBI-logo.png, id=166, 121.05225pt x 37.94176pt>
+<images//../images/CWBI-logo.png, id=235, 121.05225pt x 37.94176pt>
 File: images//../images/CWBI-logo.png Graphic file (type png)
 <use images//../images/CWBI-logo.png>
 Package pdftex.def Info: images//../images/CWBI-logo.png  used on input line 12
@@ -1405,26 +1405,198 @@ Capitolo 2.
 Capitolo 3.
 [7
 
-]) (./chapters/strumenti-utilizzati.tex [8]
-Capitolo 4.
-) (./chapters/progettazione.tex [9
+]
+<images//../images/UC/.jpeg/UC0-menu.jpg, id=283, 794.97pt x 674.52pt>
+File: images//../images/UC/.jpeg/UC0-menu.jpg Graphic file (type jpg)
+<use images//../images/UC/.jpeg/UC0-menu.jpg>
+Package pdftex.def Info: images//../images/UC/.jpeg/UC0-menu.jpg  used on input
+ line 32.
+(pdftex.def)             Requested size: 301.1261pt x 255.50717pt.
+ [8 <./images//../images/UC/.jpeg/UC0-menu.jpg>]
+<images//../images/UC/.jpeg/UC1-nuovoModificaProgetto.jpg, id=293, 1296.845pt x
+ 935.495pt>
+File: images//../images/UC/.jpeg/UC1-nuovoModificaProgetto.jpg Graphic file (ty
+pe jpg)
+<use images//../images/UC/.jpeg/UC1-nuovoModificaProgetto.jpg>
+Package pdftex.def Info: images//../images/UC/.jpeg/UC1-nuovoModificaProgetto.j
+pg  used on input line 55.
+(pdftex.def)             Requested size: 401.50146pt x 289.62932pt.
 
-] [10]
+Overfull \hbox (29.50146pt too wide) in paragraph at lines 55--56
+ [][] 
+ []
+
+[9 <./images//../images/UC/.jpeg/UC1-nuovoModificaProgetto.jpg>] [10]
+<images//../images/UC/.jpeg/UC2.0-tabellaProgetti.jpg, id=311, 845.1575pt x 513
+.92pt>
+File: images//../images/UC/.jpeg/UC2.0-tabellaProgetti.jpg Graphic file (type j
+pg)
+<use images//../images/UC/.jpeg/UC2.0-tabellaProgetti.jpg>
+Package pdftex.def Info: images//../images/UC/.jpeg/UC2.0-tabellaProgetti.jpg  
+used on input line 90.
+(pdftex.def)             Requested size: 301.1261pt x 183.11334pt.
+ [11 <./images//../images/UC/.jpeg/UC2.0-tabellaProgetti.jpg>]
+<images//../images/UC/.jpeg/UC2.1-ricercaProgetto.jpg, id=320, 864.22874pt x 83
+5.12pt>
+File: images//../images/UC/.jpeg/UC2.1-ricercaProgetto.jpg Graphic file (type j
+pg)
+<use images//../images/UC/.jpeg/UC2.1-ricercaProgetto.jpg>
+Package pdftex.def Info: images//../images/UC/.jpeg/UC2.1-ricercaProgetto.jpg  
+used on input line 111.
+(pdftex.def)             Requested size: 301.1261pt x 290.98386pt.
+ [12 <./images//../images/UC/.jpeg/UC2.1-ricercaProgetto.jpg>]
+<images//../images/UC/.jpeg/UC2.2-visualizzazioneListaProgetti.jpg, id=333, 864
+.22874pt x 925.4575pt>
+File: images//../images/UC/.jpeg/UC2.2-visualizzazioneListaProgetti.jpg Graphic
+ file (type jpg)
+<use images//../images/UC/.jpeg/UC2.2-visualizzazioneListaProgetti.jpg>
+Package pdftex.def Info: images//../images/UC/.jpeg/UC2.2-visualizzazioneListaP
+rogetti.jpg  used on input line 136.
+(pdftex.def)             Requested size: 301.1261pt x 322.46048pt.
+ [13 <./images//../images/UC/.jpeg/UC2.2-visualizzazioneListaProgetti.jpg>]
+<images//../images/UC/.jpeg/UC2.3-visualizzazioneDettaglioProgetto.jpg, id=345,
+ 858.20625pt x 1377.145pt>
+File: images//../images/UC/.jpeg/UC2.3-visualizzazioneDettaglioProgetto.jpg Gra
+phic file (type jpg)
+<use images//../images/UC/.jpeg/UC2.3-visualizzazioneDettaglioProgetto.jpg>
+Package pdftex.def Info: images//../images/UC/.jpeg/UC2.3-visualizzazioneDettag
+lioProgetto.jpg  used on input line 161.
+(pdftex.def)             Requested size: 301.1261pt x 483.20575pt.
+ [14 <./images//../images/UC/.jpeg/UC2.3-visualizzazioneDettaglioProgetto.jpg>]
+ [15]
+<images//../images/UC/.jpeg/UC3.0-tabellaProgettiAperti.jpg, id=366, 733.74126p
+t x 373.395pt>
+File: images//../images/UC/.jpeg/UC3.0-tabellaProgettiAperti.jpg Graphic file (
+type jpg)
+<use images//../images/UC/.jpeg/UC3.0-tabellaProgettiAperti.jpg>
+Package pdftex.def Info: images//../images/UC/.jpeg/UC3.0-tabellaProgettiAperti
+.jpg  used on input line 191.
+(pdftex.def)             Requested size: 301.1261pt x 153.24107pt.
+ [16 <./images//../images/UC/.jpeg/UC3.0-tabellaProgettiAperti.jpg>]
+<images//../images/UC/.jpeg/UC4.0-tabellaClienti.jpg, id=373, 885.3075pt x 463.
+7325pt>
+File: images//../images/UC/.jpeg/UC4.0-tabellaClienti.jpg Graphic file (type jp
+g)
+<use images//../images/UC/.jpeg/UC4.0-tabellaClienti.jpg>
+Package pdftex.def Info: images//../images/UC/.jpeg/UC4.0-tabellaClienti.jpg  u
+sed on input line 211.
+(pdftex.def)             Requested size: 301.1261pt x 157.73064pt.
+ [17 <./images//../images/UC/.jpeg/UC4.0-tabellaClienti.jpg>]
+<images//../images/UC/.jpeg/UC4.1-ricercaCliente.jpg, id=381, 734.745pt x 433.6
+2pt>
+File: images//../images/UC/.jpeg/UC4.1-ricercaCliente.jpg Graphic file (type jp
+g)
+<use images//../images/UC/.jpeg/UC4.1-ricercaCliente.jpg>
+Package pdftex.def Info: images//../images/UC/.jpeg/UC4.1-ricercaCliente.jpg  u
+sed on input line 232.
+(pdftex.def)             Requested size: 301.1261pt x 177.71918pt.
+ [18 <./images//../images/UC/.jpeg/UC4.1-ricercaCliente.jpg>]
+<images//../images/UC/.jpeg/UC4.2-visualizzazioneListaClienti.jpg, id=390, 825.
+0825pt x 333.245pt>
+File: images//../images/UC/.jpeg/UC4.2-visualizzazioneListaClienti.jpg Graphic 
+file (type jpg)
+<use images//../images/UC/.jpeg/UC4.2-visualizzazioneListaClienti.jpg>
+Package pdftex.def Info: images//../images/UC/.jpeg/UC4.2-visualizzazioneListaC
+lienti.jpg  used on input line 253.
+(pdftex.def)             Requested size: 301.1261pt x 121.6207pt.
+ [19 <./images//../images/UC/.jpeg/UC4.2-visualizzazioneListaClienti.jpg>]
+<images//../images/UC/.jpeg/UC4.3.0-visualizzazioneDettaglioCliente.jpg, id=397
+, 855.195pt x 664.4825pt>
+File: images//../images/UC/.jpeg/UC4.3.0-visualizzazioneDettaglioCliente.jpg Gr
+aphic file (type jpg)
+<use images//../images/UC/.jpeg/UC4.3.0-visualizzazioneDettaglioCliente.jpg>
+Package pdftex.def Info: images//../images/UC/.jpeg/UC4.3.0-visualizzazioneDett
+aglioCliente.jpg  used on input line 273.
+(pdftex.def)             Requested size: 301.1261pt x 233.97156pt.
+ [20 <./images//../images/UC/.jpeg/UC4.3.0-visualizzazioneDettaglioCliente.jpg>
+]
+<images//../images/UC/.jpeg/UC4.3.3.0-visualizzazioneOfferteCorrelate.jpg, id=4
+08, 754.82pt x 333.245pt>
+File: images//../images/UC/.jpeg/UC4.3.3.0-visualizzazioneOfferteCorrelate.jpg 
+Graphic file (type jpg)
+<use images//../images/UC/.jpeg/UC4.3.3.0-visualizzazioneOfferteCorrelate.jpg>
+Package pdftex.def Info: images//../images/UC/.jpeg/UC4.3.3.0-visualizzazioneOf
+ferteCorrelate.jpg  used on input line 297.
+(pdftex.def)             Requested size: 301.1261pt x 132.94476pt.
+ [21 <./images//../images/UC/.jpeg/UC4.3.3.0-visualizzazioneOfferteCorrelate.jp
+g>]
+<images//../images/UC/.jpeg/UC4.3.3.1-nuovaModificaOfferta.jpg, id=415, 1367.10
+75pt x 764.8575pt>
+File: images//../images/UC/.jpeg/UC4.3.3.1-nuovaModificaOfferta.jpg Graphic fil
+e (type jpg)
+<use images//../images/UC/.jpeg/UC4.3.3.1-nuovaModificaOfferta.jpg>
+Package pdftex.def Info: images//../images/UC/.jpeg/UC4.3.3.1-nuovaModificaOffe
+rta.jpg  used on input line 317.
+(pdftex.def)             Requested size: 401.50146pt x 224.62732pt.
+
+Overfull \hbox (29.50146pt too wide) in paragraph at lines 317--318
+ [][] 
+ []
+
+
+Overfull \hbox (7.6777pt too wide) in paragraph at lines 333--334
+[]\T1/cmr/m/n/10 (-20) L'attore se-le-zio-na/-mo-di-fi-ca il pro-get-to di ri-f
+e-ri-men-to di un'of-fer-ta [UC4.3.3.1.3]. 
+ []
+
+[22 <./images//../images/UC/.jpeg/UC4.3.3.1-nuovaModificaOfferta.jpg>]
+<images//../images/UC/.jpeg/UC5.0-tabellaOfferte.jpg, id=428, 703.62875pt x 413
+.545pt>
+File: images//../images/UC/.jpeg/UC5.0-tabellaOfferte.jpg Graphic file (type jp
+g)
+<use images//../images/UC/.jpeg/UC5.0-tabellaOfferte.jpg>
+Package pdftex.def Info: images//../images/UC/.jpeg/UC5.0-tabellaOfferte.jpg  u
+sed on input line 351.
+(pdftex.def)             Requested size: 301.1261pt x 176.98161pt.
+ [23 <./images//../images/UC/.jpeg/UC5.0-tabellaOfferte.jpg>]
+<images//../images/UC/.jpeg/UC5.1.0-ricercaOfferte.jpg, id=436, 734.745pt x 503
+.8825pt>
+File: images//../images/UC/.jpeg/UC5.1.0-ricercaOfferte.jpg Graphic file (type 
+jpg)
+<use images//../images/UC/.jpeg/UC5.1.0-ricercaOfferte.jpg>
+Package pdftex.def Info: images//../images/UC/.jpeg/UC5.1.0-ricercaOfferte.jpg 
+ used on input line 372.
+(pdftex.def)             Requested size: 301.1261pt x 206.51627pt.
+ [24 <./images//../images/UC/.jpeg/UC5.1.0-ricercaOfferte.jpg>]
+<images//../images/UC/.jpeg/UC5.2.0-visualizzazioneListaOfferte.jpg, id=446, 76
+4.8575pt x 684.5575pt>
+File: images//../images/UC/.jpeg/UC5.2.0-visualizzazioneListaOfferte.jpg Graphi
+c file (type jpg)
+<use images//../images/UC/.jpeg/UC5.2.0-visualizzazioneListaOfferte.jpg>
+Package pdftex.def Info: images//../images/UC/.jpeg/UC5.2.0-visualizzazioneList
+aOfferte.jpg  used on input line 394.
+(pdftex.def)             Requested size: 301.1261pt x 269.5146pt.
+ [25 <./images//../images/UC/.jpeg/UC5.2.0-visualizzazioneListaOfferte.jpg>]
+<images//../images/UC/.jpeg/UC5.3.0-visualizzazioneDettaglioOfferta.jpg, id=457
+, 774.895pt x 1186.4325pt>
+File: images//../images/UC/.jpeg/UC5.3.0-visualizzazioneDettaglioOfferta.jpg Gr
+aphic file (type jpg)
+<use images//../images/UC/.jpeg/UC5.3.0-visualizzazioneDettaglioOfferta.jpg>
+Package pdftex.def Info: images//../images/UC/.jpeg/UC5.3.0-visualizzazioneDett
+aglioOfferta.jpg  used on input line 418.
+(pdftex.def)             Requested size: 301.1261pt x 461.0594pt.
+ [26 <./images//../images/UC/.jpeg/UC5.3.0-visualizzazioneDettaglioOfferta.jpg>
+] [27]) (./chapters/strumenti-utilizzati.tex
+[28]
+Capitolo 4.
+) (./chapters/progettazione.tex [29
+
+] [30]
 Capitolo 5.
-) (./chapters/prodotto-finale.tex [11
+) (./chapters/prodotto-finale.tex [31
 
 ]
 Capitolo 6.
-) (./chapters/conclusioni.tex [12
+) (./chapters/conclusioni.tex [32
 
 ]
 Capitolo 7.
-) [13
+) [33
 
 ]
 No file thesis.acr.
 No file thesis.gls.
-(./appendix/bibliography.tex [14
+(./appendix/bibliography.tex [34
 
 ]
 
@@ -1439,7 +1611,7 @@ Package biblatex Warning: Type 'online' not found on input line 10.
 
 LaTeX Warning: Empty bibliography on input line 10.
 
-) [15
+) [35
 
 
 ] (./thesis.aux)
@@ -1456,11 +1628,11 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 
  ) ) 
 Here is how much of TeX's memory you used:
- 39835 strings out of 476093
- 719531 string characters out of 5795582
+ 40182 strings out of 476093
+ 730386 string characters out of 5795582
  1868787 words of memory out of 5000000
- 59332 multiletter control sequences out of 15000+600000
- 537502 words of font info for 140 fonts, out of 8000000 for 9000
+ 59505 multiletter control sequences out of 15000+600000
+ 537795 words of font info for 144 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  96i,8n,125p,2259b,3112s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/te
@@ -1482,10 +1654,10 @@ live/2022/texmf-dist/fonts/type1/public/cm-super/sfsl1000.pfb><c:/texlive/2022/
 texmf-dist/fonts/type1/public/cm-super/sfsl1200.pfb><c:/texlive/2022/texmf-dist
 /fonts/type1/public/cm-super/sfti1000.pfb><c:/texlive/2022/texmf-dist/fonts/typ
 e1/public/cm-super/sfti1200.pfb>
-Output written on thesis.pdf (22 pages, 465587 bytes).
+Output written on thesis.pdf (42 pages, 1796201 bytes).
 PDF statistics:
- 515 PDF objects out of 1000 (max. 8388607)
- 442 compressed objects within 5 object streams
- 93 named destinations out of 1000 (max. 500000)
- 55743 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 862 PDF objects out of 1000 (max. 8388607)
+ 749 compressed objects within 8 object streams
+ 240 named destinations out of 1000 (max. 500000)
+ 55964 words of extra memory for PDF output out of 61914 (max. 10000000)
 
