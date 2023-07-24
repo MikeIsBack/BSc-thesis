@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.18)  23 JUL 2023 12:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.28)  24 JUL 2023 12:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **thesis.tex
 (./thesis.tex
-LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2022-12-17>
+LaTeX2e <2022-11-01>
+L3 programming layer <2022-11-02>
 (c:/texlive/2022/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2022/07/02 v1.4n Standard LaTeX document class
 (c:/texlive/2022/texmf-dist/tex/latex/base/bk10.clo
@@ -20,8 +20,8 @@ File: bk10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 \c@subparagraph=\count191
 \c@figure=\count192
 \c@table=\count193
-\abovecaptionskip=\skip48
-\belowcaptionskip=\skip49
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
 \bibindent=\dimen140
 ) (./config/packages.tex
 (c:/texlive/2022/texmf-dist/tex/generic/colorprofiles/colorprofiles.sty
@@ -234,7 +234,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 85.
 )
-\Hy@SectionHShift=\skip50
+\Hy@SectionHShift=\skip49
 )
 Package hyperref Info: Option `unicode' set `true' on input line 1463.
 
@@ -298,7 +298,7 @@ Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 )
 (c:/texlive/2022/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2022/11/30 3.83 The Babel package
+Package: babel 2022/10/23 3.82 The Babel package
 \babel@savecnt=\count272
 \U@D=\dimen145
 \l@unhyphenated=\language87
@@ -371,12 +371,12 @@ Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Bcount=\count284
 \calc@Adimen=\dimen154
 \calc@Bdimen=\dimen155
-\calc@Askip=\skip51
-\calc@Bskip=\skip52
+\calc@Askip=\skip50
+\calc@Bskip=\skip51
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count285
-\calc@Cskip=\skip53
+\calc@Cskip=\skip52
 )
 (c:/texlive/2022/texmf-dist/tex/latex/csquotes/csquotes.sty
 Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
@@ -407,10 +407,10 @@ Package: epigraph 2020/01/02 v1.5e typesetting epigraphs
 (c:/texlive/2022/texmf-dist/tex/latex/nextpage/nextpage.sty
 Package: nextpage 2009/09/03 v1.1a additional page commands
 )
-\beforeepigraphskip=\skip54
-\afterepigraphskip=\skip55
-\epigraphwidth=\skip56
-\epigraphrule=\skip57
+\beforeepigraphskip=\skip53
+\afterepigraphskip=\skip54
+\epigraphwidth=\skip55
+\epigraphrule=\skip56
 )
 (c:/texlive/2022/texmf-dist/tex/latex/eurosym/eurosym.sty
 Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
@@ -476,7 +476,7 @@ File: microtype-pdftex.def 2022/06/23 v3.0f Definitions specific to pdftex (RS)
 
 LaTeX Info: Redefining \lsstyle on input line 900.
 LaTeX Info: Redefining \lslig on input line 900.
-\MT@outer@space=\skip58
+\MT@outer@space=\skip57
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
@@ -491,23 +491,23 @@ Package: relsize 2013/03/29 ver 4.1
 )
 (c:/texlive/2022/texmf-dist/tex/latex/quoting/quoting.sty
 Package: quoting 2014/01/28 v0.1c Consolidated environment for displayed text
-\quo@toppartop=\skip59
+\quo@toppartop=\skip58
 )
 (c:/texlive/2022/texmf-dist/tex/latex/subfig/subfig.sty
 Package: subfig 2005/06/28 ver: 1.3 subfig package
 \c@KVtest=\count302
-\sf@farskip=\skip60
+\sf@farskip=\skip59
 \sf@captopadj=\dimen163
-\sf@capskip=\skip61
-\sf@nearskip=\skip62
+\sf@capskip=\skip60
+\sf@nearskip=\skip61
 \c@subfigure=\count303
 \c@subfigure@save=\count304
 \c@lofdepth=\count305
 \c@subtable=\count306
 \c@subtable@save=\count307
 \c@lotdepth=\count308
-\sf@top=\skip63
-\sf@bottom=\skip64
+\sf@top=\skip62
+\sf@bottom=\skip63
 )
 (c:/texlive/2022/texmf-dist/tex/latex/tools/varioref.sty
 Package: varioref 2022/01/09 v1.6f package for extended references (FMi)
@@ -540,7 +540,7 @@ Package: datatool-base 2019/09/27 v2.32 (NLCT)
 
 (c:/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2022/04/08 v2.17n AMS math features
-\@mathmargin=\skip65
+\@mathmargin=\skip64
 
 For additional information on amsmath, use the `?' option.
 (c:/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
@@ -600,8 +600,8 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \totwidth@=\dimen171
 \lineht@=\dimen172
 \@envbody=\toks31
-\multlinegap=\skip66
-\multlinetaggap=\skip67
+\multlinegap=\skip65
+\multlinetaggap=\skip66
 \mathdisplay@stack=\toks32
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
@@ -663,7 +663,7 @@ Package: fp-eval 1995/04/03
 )))
 \@dtl@toks=\toks33
 \@dtl@tmpcount=\count335
-\dtl@tmplength=\skip68
+\dtl@tmplength=\skip67
 \dtl@sortresult=\count336
 \@dtl@numgrpsepcount=\count337
 \@dtl@datatype=\count338
@@ -672,7 +672,7 @@ Package: fp-eval 1995/04/03
 \@dtl@foreach@level=\count341
 )
 (c:/texlive/2022/texmf-dist/tex/latex/tracklang/tracklang.sty
-Package: tracklang 2022/12/13 v1.6.1 (NLCT) Track Languages
+Package: tracklang 2022/10/29 v1.6 (NLCT) Track Languages
 
 (c:/texlive/2022/texmf-dist/tex/generic/tracklang/tracklang.tex))
 (c:/texlive/2022/texmf-dist/tex/latex/translator/translator.sty
@@ -686,7 +686,7 @@ File: glossaries-italian.ldf 2014/11/23 v1.0
 )
 \gls@level=\count342
 \@gls@tmpb=\toks34
-\gls@tmplen=\skip69
+\gls@tmplen=\skip68
 \glskeylisttok=\toks35
 \glslabeltok=\toks36
 \glsshorttok=\toks37
@@ -695,17 +695,17 @@ File: glossaries-italian.ldf 2014/11/23 v1.0
 Package: glossary-hypernav 2022/11/03 v4.52 (NLCT)
 ) (c:/texlive/2022/texmf-dist/tex/latex/glossaries/styles/glossary-list.sty
 Package: glossary-list 2022/11/03 v4.52 (NLCT)
-\glslistdottedwidth=\skip70
+\glslistdottedwidth=\skip69
 )
 (c:/texlive/2022/texmf-dist/tex/latex/glossaries/styles/glossary-long.sty
 Package: glossary-long 2022/11/03 v4.52 (NLCT)
 
 (c:/texlive/2022/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
-\LTleft=\skip71
-\LTright=\skip72
-\LTpre=\skip73
-\LTpost=\skip74
+\LTleft=\skip70
+\LTright=\skip71
+\LTpre=\skip72
+\LTpost=\skip73
 \LTchunksize=\count343
 \LTcapwidth=\dimen173
 \LT@head=\box57
@@ -719,8 +719,8 @@ Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
 \c@LT@chunks=\count347
 \LT@p@ftn=\toks39
 )
-\glsdescwidth=\skip75
-\glspagelistwidth=\skip76
+\glsdescwidth=\skip74
+\glspagelistwidth=\skip75
 )
 (c:/texlive/2022/texmf-dist/tex/latex/glossaries/styles/glossary-super.sty
 Package: glossary-super 2022/11/03 v4.52 (NLCT)
@@ -729,9 +729,9 @@ Package: glossary-super 2022/11/03 v4.52 (NLCT)
 Package: supertabular 2020/02/02 v4.1g the supertabular environment
 \c@tracingst=\count348
 \ST@wd=\dimen174
-\ST@rightskip=\skip77
-\ST@leftskip=\skip78
-\ST@parfillskip=\skip79
+\ST@rightskip=\skip76
+\ST@leftskip=\skip77
+\ST@parfillskip=\skip78
 \ST@pageleft=\dimen175
 \ST@headht=\dimen176
 \ST@tailht=\dimen177
@@ -745,7 +745,7 @@ Package: supertabular 2020/02/02 v4.1g the supertabular environment
 ))
 (c:/texlive/2022/texmf-dist/tex/latex/glossaries/styles/glossary-tree.sty
 Package: glossary-tree 2022/11/03 v4.52 (NLCT)
-\glstreeindent=\skip80
+\glstreeindent=\skip79
 ))
 (c:/texlive/2022/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2022/07/12 v3.18b programmable bibliographies (PK/MW)
@@ -800,14 +800,14 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \blx@sectionciteorderinternal@0=\count390
 \blx@entrysetcounter=\count391
 \blx@biblioinstance=\count392
-\labelnumberwidth=\skip81
-\labelalphawidth=\skip82
-\biblabelsep=\skip83
-\bibitemsep=\skip84
-\bibnamesep=\skip85
-\bibinitsep=\skip86
-\bibparsep=\skip87
-\bibhang=\skip88
+\labelnumberwidth=\skip80
+\labelalphawidth=\skip81
+\biblabelsep=\skip82
+\bibitemsep=\skip83
+\bibnamesep=\skip84
+\bibinitsep=\skip85
+\bibparsep=\skip86
+\bibhang=\skip87
 \blx@bcfin=\read4
 \blx@bcfout=\write4
 \blx@langwohyphens=\language88
@@ -892,20 +892,20 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@savedoriglanguage=\count461
 \c@pageref=\count462
 \c@savedpageref=\count463
-\shorthandwidth=\skip89
-\shortjournalwidth=\skip90
-\shortserieswidth=\skip91
-\shorttitlewidth=\skip92
-\shortauthorwidth=\skip93
-\shorteditorwidth=\skip94
-\locallabelnumberwidth=\skip95
-\locallabelalphawidth=\skip96
-\localshorthandwidth=\skip97
-\localshortjournalwidth=\skip98
-\localshortserieswidth=\skip99
-\localshorttitlewidth=\skip100
-\localshortauthorwidth=\skip101
-\localshorteditorwidth=\skip102
+\shorthandwidth=\skip88
+\shortjournalwidth=\skip89
+\shortserieswidth=\skip90
+\shorttitlewidth=\skip91
+\shortauthorwidth=\skip92
+\shorteditorwidth=\skip93
+\locallabelnumberwidth=\skip94
+\locallabelalphawidth=\skip95
+\localshorthandwidth=\skip96
+\localshortjournalwidth=\skip97
+\localshortserieswidth=\skip98
+\localshorttitlewidth=\skip99
+\localshortauthorwidth=\skip100
+\localshorteditorwidth=\skip101
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
@@ -972,7 +972,7 @@ Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
 
 (c:/texlive/2022/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2022-12-17 L3 programming layer (loader) 
+Package: expl3 2022-11-02 L3 programming layer (loader) 
 
 (c:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
@@ -980,13 +980,13 @@ File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
 \l__pdf_internal_box=\box63
 ))
 Package biblatex Info: ... and expl3
-(biblatex)             2022-12-17 L3 programming layer (loader) 
+(biblatex)             2022-11-02 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
 
 (c:/texlive/2022/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
 (c:/texlive/2022/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-Package: xparse 2022-12-17 L3 Experimental document command parser
+Package: xparse 2022-06-22 L3 Experimental document command parser
 )
 Package: blx-case-expl3 2022/07/12 v3.18b expl3 case changing code for biblatex
 
@@ -1013,11 +1013,11 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen191
 \Gm@dimlist=\toks40
 )
-\LA@MargineRilegatura=\skip103
-\LA@LarghezzaTesto=\skip104
-\LA@AltezzaTesto=\skip105
-\LA@MargineSinistro=\skip106
-\LA@MargineSuperiore=\skip107
+\LA@MargineRilegatura=\skip102
+\LA@LarghezzaTesto=\skip103
+\LA@AltezzaTesto=\skip104
+\LA@MargineSinistro=\skip105
+\LA@MargineSuperiore=\skip106
 )
 (c:/texlive/2022/texmf-dist/tex/latex/tabularray/tabularray.sty
 Package: tabularray 2022-11-01 v2022D Typeset tabulars and arrays with LaTeX3
@@ -1376,7 +1376,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmss' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-<images//../images/CWBI-logo.png, id=235, 121.05225pt x 37.94176pt>
+<images//../images/CWBI-logo.png, id=223, 121.05225pt x 37.94176pt>
 File: images//../images/CWBI-logo.png Graphic file (type png)
 <use images//../images/CWBI-logo.png>
 Package pdftex.def Info: images//../images/CWBI-logo.png  used on input line 12
@@ -1406,197 +1406,185 @@ Capitolo 3.
 [7
 
 ]
-<images//../images/UC/.jpeg/UC0-menu.jpg, id=283, 794.97pt x 674.52pt>
+<images//../images/UC/.jpeg/UC0-menu.jpg, id=271, 794.97pt x 674.52pt>
 File: images//../images/UC/.jpeg/UC0-menu.jpg Graphic file (type jpg)
 <use images//../images/UC/.jpeg/UC0-menu.jpg>
 Package pdftex.def Info: images//../images/UC/.jpeg/UC0-menu.jpg  used on input
- line 32.
+ line 33.
 (pdftex.def)             Requested size: 301.1261pt x 255.50717pt.
  [8 <./images//../images/UC/.jpeg/UC0-menu.jpg>]
-<images//../images/UC/.jpeg/UC1-nuovoModificaProgetto.jpg, id=293, 1296.845pt x
+<images//../images/UC/.jpeg/UC1-nuovoModificaProgetto.jpg, id=281, 1296.845pt x
  935.495pt>
 File: images//../images/UC/.jpeg/UC1-nuovoModificaProgetto.jpg Graphic file (ty
 pe jpg)
 <use images//../images/UC/.jpeg/UC1-nuovoModificaProgetto.jpg>
 Package pdftex.def Info: images//../images/UC/.jpeg/UC1-nuovoModificaProgetto.j
-pg  used on input line 55.
+pg  used on input line 56.
 (pdftex.def)             Requested size: 401.50146pt x 289.62932pt.
 
-Overfull \hbox (29.50146pt too wide) in paragraph at lines 55--56
+Overfull \hbox (29.50146pt too wide) in paragraph at lines 56--57
  [][] 
  []
 
 [9 <./images//../images/UC/.jpeg/UC1-nuovoModificaProgetto.jpg>] [10]
-<images//../images/UC/.jpeg/UC2.0-tabellaProgetti.jpg, id=311, 845.1575pt x 513
-.92pt>
+<images//../images/UC/.jpeg/UC2.0-tabellaProgetti.jpg, id=299, 1145.27875pt x 1
+045.9075pt>
 File: images//../images/UC/.jpeg/UC2.0-tabellaProgetti.jpg Graphic file (type j
 pg)
 <use images//../images/UC/.jpeg/UC2.0-tabellaProgetti.jpg>
 Package pdftex.def Info: images//../images/UC/.jpeg/UC2.0-tabellaProgetti.jpg  
-used on input line 90.
-(pdftex.def)             Requested size: 301.1261pt x 183.11334pt.
- [11 <./images//../images/UC/.jpeg/UC2.0-tabellaProgetti.jpg>]
-<images//../images/UC/.jpeg/UC2.1-ricercaProgetto.jpg, id=320, 864.22874pt x 83
-5.12pt>
-File: images//../images/UC/.jpeg/UC2.1-ricercaProgetto.jpg Graphic file (type j
-pg)
-<use images//../images/UC/.jpeg/UC2.1-ricercaProgetto.jpg>
-Package pdftex.def Info: images//../images/UC/.jpeg/UC2.1-ricercaProgetto.jpg  
-used on input line 111.
-(pdftex.def)             Requested size: 301.1261pt x 290.98386pt.
- [12 <./images//../images/UC/.jpeg/UC2.1-ricercaProgetto.jpg>]
-<images//../images/UC/.jpeg/UC2.2-visualizzazioneListaProgetti.jpg, id=333, 864
+used on input line 91.
+(pdftex.def)             Requested size: 401.50146pt x 366.6636pt.
+
+Overfull \hbox (29.50146pt too wide) in paragraph at lines 91--92
+ [][] 
+ []
+
+[11 <./images//../images/UC/.jpeg/UC2.0-tabellaProgetti.jpg>] [12]
+<images//../images/UC/.jpeg/UC2.2-visualizzazioneListaProgetti.jpg, id=320, 864
 .22874pt x 925.4575pt>
 File: images//../images/UC/.jpeg/UC2.2-visualizzazioneListaProgetti.jpg Graphic
  file (type jpg)
 <use images//../images/UC/.jpeg/UC2.2-visualizzazioneListaProgetti.jpg>
 Package pdftex.def Info: images//../images/UC/.jpeg/UC2.2-visualizzazioneListaP
-rogetti.jpg  used on input line 136.
+rogetti.jpg  used on input line 122.
 (pdftex.def)             Requested size: 301.1261pt x 322.46048pt.
  [13 <./images//../images/UC/.jpeg/UC2.2-visualizzazioneListaProgetti.jpg>]
-<images//../images/UC/.jpeg/UC2.3-visualizzazioneDettaglioProgetto.jpg, id=345,
+<images//../images/UC/.jpeg/UC2.3-visualizzazioneDettaglioProgetto.jpg, id=332,
  858.20625pt x 1377.145pt>
 File: images//../images/UC/.jpeg/UC2.3-visualizzazioneDettaglioProgetto.jpg Gra
 phic file (type jpg)
 <use images//../images/UC/.jpeg/UC2.3-visualizzazioneDettaglioProgetto.jpg>
 Package pdftex.def Info: images//../images/UC/.jpeg/UC2.3-visualizzazioneDettag
-lioProgetto.jpg  used on input line 161.
+lioProgetto.jpg  used on input line 147.
 (pdftex.def)             Requested size: 301.1261pt x 483.20575pt.
  [14 <./images//../images/UC/.jpeg/UC2.3-visualizzazioneDettaglioProgetto.jpg>]
  [15]
-<images//../images/UC/.jpeg/UC3.0-tabellaProgettiAperti.jpg, id=366, 733.74126p
+<images//../images/UC/.jpeg/UC3.0-tabellaProgettiAperti.jpg, id=353, 733.74126p
 t x 373.395pt>
 File: images//../images/UC/.jpeg/UC3.0-tabellaProgettiAperti.jpg Graphic file (
 type jpg)
 <use images//../images/UC/.jpeg/UC3.0-tabellaProgettiAperti.jpg>
 Package pdftex.def Info: images//../images/UC/.jpeg/UC3.0-tabellaProgettiAperti
-.jpg  used on input line 191.
+.jpg  used on input line 177.
 (pdftex.def)             Requested size: 301.1261pt x 153.24107pt.
  [16 <./images//../images/UC/.jpeg/UC3.0-tabellaProgettiAperti.jpg>]
-<images//../images/UC/.jpeg/UC4.0-tabellaClienti.jpg, id=373, 885.3075pt x 463.
-7325pt>
+<images//../images/UC/.jpeg/UC4.0-tabellaClienti.jpg, id=360, 1166.3575pt x 644
+.4075pt>
 File: images//../images/UC/.jpeg/UC4.0-tabellaClienti.jpg Graphic file (type jp
 g)
 <use images//../images/UC/.jpeg/UC4.0-tabellaClienti.jpg>
 Package pdftex.def Info: images//../images/UC/.jpeg/UC4.0-tabellaClienti.jpg  u
-sed on input line 211.
-(pdftex.def)             Requested size: 301.1261pt x 157.73064pt.
- [17 <./images//../images/UC/.jpeg/UC4.0-tabellaClienti.jpg>]
-<images//../images/UC/.jpeg/UC4.1-ricercaCliente.jpg, id=381, 734.745pt x 433.6
-2pt>
-File: images//../images/UC/.jpeg/UC4.1-ricercaCliente.jpg Graphic file (type jp
-g)
-<use images//../images/UC/.jpeg/UC4.1-ricercaCliente.jpg>
-Package pdftex.def Info: images//../images/UC/.jpeg/UC4.1-ricercaCliente.jpg  u
-sed on input line 232.
-(pdftex.def)             Requested size: 301.1261pt x 177.71918pt.
- [18 <./images//../images/UC/.jpeg/UC4.1-ricercaCliente.jpg>]
-<images//../images/UC/.jpeg/UC4.2-visualizzazioneListaClienti.jpg, id=390, 825.
+sed on input line 197.
+(pdftex.def)             Requested size: 401.50146pt x 221.82918pt.
+
+Overfull \hbox (29.50146pt too wide) in paragraph at lines 197--198
+ [][] 
+ []
+
+[17 <./images//../images/UC/.jpeg/UC4.0-tabellaClienti.jpg>]
+<images//../images/UC/.jpeg/UC4.2-visualizzazioneListaClienti.jpg, id=371, 825.
 0825pt x 333.245pt>
 File: images//../images/UC/.jpeg/UC4.2-visualizzazioneListaClienti.jpg Graphic 
 file (type jpg)
 <use images//../images/UC/.jpeg/UC4.2-visualizzazioneListaClienti.jpg>
 Package pdftex.def Info: images//../images/UC/.jpeg/UC4.2-visualizzazioneListaC
-lienti.jpg  used on input line 253.
+lienti.jpg  used on input line 224.
 (pdftex.def)             Requested size: 301.1261pt x 121.6207pt.
- [19 <./images//../images/UC/.jpeg/UC4.2-visualizzazioneListaClienti.jpg>]
-<images//../images/UC/.jpeg/UC4.3.0-visualizzazioneDettaglioCliente.jpg, id=397
+ [18 <./images//../images/UC/.jpeg/UC4.2-visualizzazioneListaClienti.jpg>]
+<images//../images/UC/.jpeg/UC4.3.0-visualizzazioneDettaglioCliente.jpg, id=379
 , 855.195pt x 664.4825pt>
 File: images//../images/UC/.jpeg/UC4.3.0-visualizzazioneDettaglioCliente.jpg Gr
 aphic file (type jpg)
 <use images//../images/UC/.jpeg/UC4.3.0-visualizzazioneDettaglioCliente.jpg>
 Package pdftex.def Info: images//../images/UC/.jpeg/UC4.3.0-visualizzazioneDett
-aglioCliente.jpg  used on input line 273.
+aglioCliente.jpg  used on input line 244.
 (pdftex.def)             Requested size: 301.1261pt x 233.97156pt.
- [20 <./images//../images/UC/.jpeg/UC4.3.0-visualizzazioneDettaglioCliente.jpg>
+ [19 <./images//../images/UC/.jpeg/UC4.3.0-visualizzazioneDettaglioCliente.jpg>
 ]
-<images//../images/UC/.jpeg/UC4.3.3.0-visualizzazioneOfferteCorrelate.jpg, id=4
-08, 754.82pt x 333.245pt>
+<images//../images/UC/.jpeg/UC4.3.3.0-visualizzazioneOfferteCorrelate.jpg, id=3
+90, 754.82pt x 333.245pt>
 File: images//../images/UC/.jpeg/UC4.3.3.0-visualizzazioneOfferteCorrelate.jpg 
 Graphic file (type jpg)
 <use images//../images/UC/.jpeg/UC4.3.3.0-visualizzazioneOfferteCorrelate.jpg>
 Package pdftex.def Info: images//../images/UC/.jpeg/UC4.3.3.0-visualizzazioneOf
-ferteCorrelate.jpg  used on input line 297.
+ferteCorrelate.jpg  used on input line 268.
 (pdftex.def)             Requested size: 301.1261pt x 132.94476pt.
- [21 <./images//../images/UC/.jpeg/UC4.3.3.0-visualizzazioneOfferteCorrelate.jp
+ [20 <./images//../images/UC/.jpeg/UC4.3.3.0-visualizzazioneOfferteCorrelate.jp
 g>]
-<images//../images/UC/.jpeg/UC4.3.3.1-nuovaModificaOfferta.jpg, id=415, 1367.10
+<images//../images/UC/.jpeg/UC4.3.3.1-nuovaModificaOfferta.jpg, id=397, 1367.10
 75pt x 764.8575pt>
 File: images//../images/UC/.jpeg/UC4.3.3.1-nuovaModificaOfferta.jpg Graphic fil
 e (type jpg)
 <use images//../images/UC/.jpeg/UC4.3.3.1-nuovaModificaOfferta.jpg>
 Package pdftex.def Info: images//../images/UC/.jpeg/UC4.3.3.1-nuovaModificaOffe
-rta.jpg  used on input line 317.
+rta.jpg  used on input line 288.
 (pdftex.def)             Requested size: 401.50146pt x 224.62732pt.
 
-Overfull \hbox (29.50146pt too wide) in paragraph at lines 317--318
+Overfull \hbox (29.50146pt too wide) in paragraph at lines 288--289
  [][] 
  []
 
 
-Overfull \hbox (7.6777pt too wide) in paragraph at lines 333--334
+Overfull \hbox (7.6777pt too wide) in paragraph at lines 304--305
 []\T1/cmr/m/n/10 (-20) L'attore se-le-zio-na/-mo-di-fi-ca il pro-get-to di ri-f
 e-ri-men-to di un'of-fer-ta [UC4.3.3.1.3]. 
  []
 
-[22 <./images//../images/UC/.jpeg/UC4.3.3.1-nuovaModificaOfferta.jpg>]
-<images//../images/UC/.jpeg/UC5.0-tabellaOfferte.jpg, id=428, 703.62875pt x 413
-.545pt>
+[21 <./images//../images/UC/.jpeg/UC4.3.3.1-nuovaModificaOfferta.jpg>]
+<images//../images/UC/.jpeg/UC5.0-tabellaOfferte.jpg, id=409, 995.72pt x 744.78
+25pt>
 File: images//../images/UC/.jpeg/UC5.0-tabellaOfferte.jpg Graphic file (type jp
 g)
 <use images//../images/UC/.jpeg/UC5.0-tabellaOfferte.jpg>
 Package pdftex.def Info: images//../images/UC/.jpeg/UC5.0-tabellaOfferte.jpg  u
-sed on input line 351.
-(pdftex.def)             Requested size: 301.1261pt x 176.98161pt.
- [23 <./images//../images/UC/.jpeg/UC5.0-tabellaOfferte.jpg>]
-<images//../images/UC/.jpeg/UC5.1.0-ricercaOfferte.jpg, id=436, 734.745pt x 503
-.8825pt>
-File: images//../images/UC/.jpeg/UC5.1.0-ricercaOfferte.jpg Graphic file (type 
-jpg)
-<use images//../images/UC/.jpeg/UC5.1.0-ricercaOfferte.jpg>
-Package pdftex.def Info: images//../images/UC/.jpeg/UC5.1.0-ricercaOfferte.jpg 
- used on input line 372.
-(pdftex.def)             Requested size: 301.1261pt x 206.51627pt.
- [24 <./images//../images/UC/.jpeg/UC5.1.0-ricercaOfferte.jpg>]
-<images//../images/UC/.jpeg/UC5.2.0-visualizzazioneListaOfferte.jpg, id=446, 76
+sed on input line 322.
+(pdftex.def)             Requested size: 401.50146pt x 300.31699pt.
+
+Overfull \hbox (29.50146pt too wide) in paragraph at lines 322--323
+ [][] 
+ []
+
+[22 <./images//../images/UC/.jpeg/UC5.0-tabellaOfferte.jpg>]
+<images//../images/UC/.jpeg/UC5.2.0-visualizzazioneListaOfferte.jpg, id=422, 76
 4.8575pt x 684.5575pt>
 File: images//../images/UC/.jpeg/UC5.2.0-visualizzazioneListaOfferte.jpg Graphi
 c file (type jpg)
 <use images//../images/UC/.jpeg/UC5.2.0-visualizzazioneListaOfferte.jpg>
 Package pdftex.def Info: images//../images/UC/.jpeg/UC5.2.0-visualizzazioneList
-aOfferte.jpg  used on input line 394.
+aOfferte.jpg  used on input line 350.
 (pdftex.def)             Requested size: 301.1261pt x 269.5146pt.
- [25 <./images//../images/UC/.jpeg/UC5.2.0-visualizzazioneListaOfferte.jpg>]
-<images//../images/UC/.jpeg/UC5.3.0-visualizzazioneDettaglioOfferta.jpg, id=457
+ [23 <./images//../images/UC/.jpeg/UC5.2.0-visualizzazioneListaOfferte.jpg>]
+<images//../images/UC/.jpeg/UC5.3.0-visualizzazioneDettaglioOfferta.jpg, id=433
 , 774.895pt x 1186.4325pt>
 File: images//../images/UC/.jpeg/UC5.3.0-visualizzazioneDettaglioOfferta.jpg Gr
 aphic file (type jpg)
 <use images//../images/UC/.jpeg/UC5.3.0-visualizzazioneDettaglioOfferta.jpg>
 Package pdftex.def Info: images//../images/UC/.jpeg/UC5.3.0-visualizzazioneDett
-aglioOfferta.jpg  used on input line 418.
+aglioOfferta.jpg  used on input line 374.
 (pdftex.def)             Requested size: 301.1261pt x 461.0594pt.
- [26 <./images//../images/UC/.jpeg/UC5.3.0-visualizzazioneDettaglioOfferta.jpg>
-] [27]) (./chapters/strumenti-utilizzati.tex
-[28]
+ [24 <./images//../images/UC/.jpeg/UC5.3.0-visualizzazioneDettaglioOfferta.jpg>
+] [25])
+(./chapters/strumenti-utilizzati.tex [26]
 Capitolo 4.
-) (./chapters/progettazione.tex [29
+) (./chapters/progettazione.tex [27
 
-] [30]
+] [28]
 Capitolo 5.
-) (./chapters/prodotto-finale.tex [31
+) (./chapters/prodotto-finale.tex [29
 
 ]
 Capitolo 6.
-) (./chapters/conclusioni.tex [32
+) (./chapters/conclusioni.tex [30
 
 ]
 Capitolo 7.
-) [33
+) [31
 
 ]
 No file thesis.acr.
 No file thesis.gls.
-(./appendix/bibliography.tex [34
+(./appendix/bibliography.tex [32
 
 ]
 
@@ -1611,12 +1599,20 @@ Package biblatex Warning: Type 'online' not found on input line 10.
 
 LaTeX Warning: Empty bibliography on input line 10.
 
-) [35
+) [33
 
 
-] (./thesis.aux)
+] (./thesis.aux
+
+Package mparhack Warning: Marginpars may have changed.
+(mparhack)                Rerun to get them right.
+
+)
 
 LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 
 Package biblatex Warning: Please (re)run Biber on the file:
@@ -1628,13 +1624,13 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 
  ) ) 
 Here is how much of TeX's memory you used:
- 40182 strings out of 476093
- 730386 string characters out of 5795582
- 1868787 words of memory out of 5000000
- 59505 multiletter control sequences out of 15000+600000
- 537795 words of font info for 144 fonts, out of 8000000 for 9000
+ 40143 strings out of 474971
+ 728823 string characters out of 5780120
+ 1560808 words of memory out of 5000000
+ 60599 multiletter control sequences out of 15000+600000
+ 494767 words of font info for 140 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 96i,8n,125p,2259b,3112s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 96i,8n,125p,2259b,3116s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/te
 xlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/202
 2/texmf-dist/fonts/type1/public/cm-super/sfbx0900.pfb><c:/texlive/2022/texmf-di
@@ -1654,10 +1650,10 @@ live/2022/texmf-dist/fonts/type1/public/cm-super/sfsl1000.pfb><c:/texlive/2022/
 texmf-dist/fonts/type1/public/cm-super/sfsl1200.pfb><c:/texlive/2022/texmf-dist
 /fonts/type1/public/cm-super/sfti1000.pfb><c:/texlive/2022/texmf-dist/fonts/typ
 e1/public/cm-super/sfti1200.pfb>
-Output written on thesis.pdf (42 pages, 1796201 bytes).
+Output written on thesis.pdf (40 pages, 1773926 bytes).
 PDF statistics:
- 862 PDF objects out of 1000 (max. 8388607)
- 749 compressed objects within 8 object streams
- 240 named destinations out of 1000 (max. 500000)
- 55964 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 829 PDF objects out of 1000 (max. 8388607)
+ 721 compressed objects within 8 object streams
+ 232 named destinations out of 1000 (max. 500000)
+ 55925 words of extra memory for PDF output out of 61914 (max. 10000000)
 

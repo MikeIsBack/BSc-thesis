@@ -16,6 +16,7 @@ Per poter capire e studiare a fondo tutte le funzionalità che devono essere mes
 \item precondizione;
 \item postcondizione;
 \item scenario principale;
+\item generalizzazioni (qualora fossero presenti);
 \item estensioni (qualora fossero presenti).
 \end{itemize}
 
@@ -87,7 +88,7 @@ L'unico attore coinvolto e identificato come \textit{Utente autenticato} corrisp
 \subsection{UC2: Tabella progetti}
 \begin{figure}[!h]
 \centering
-\includegraphics[width=300px]{../images/UC/.jpeg/UC2.0-tabellaProgetti.jpg}
+\includegraphics[width=400px]{../images/UC/.jpeg/UC2.0-tabellaProgetti.jpg}
 \caption{UC2: Tabella progetti}
 \end{figure}
 
@@ -101,22 +102,7 @@ L'unico attore coinvolto e identificato come \textit{Utente autenticato} corrisp
 \item L'attore visualizza la lista completa dei progetti presenti nel sistema [UC2.2].
 \item L'attore visualizza un progetto nel dettaglio [UC2.3].
 \end{enumerate}
-\end{itemize}
-
-\pagebreak
-
-\subsection{UC2.1: Ricerca progetti}
-\begin{figure}[!h]
-\centering
-\includegraphics[width=300px]{../images/UC/.jpeg/UC2.1-ricercaProgetto.jpg}
-\caption{UC2.1: Ricerca progetti}
-\end{figure}
-
-\begin{itemize}
-\item \textbf{Attore primario}: Utente autenticato.
-\item \textbf{Precondizione}: L'attore ha accesso alla tabella dei progetti.
-\item \textbf{Postcondizione}: L'attore ha ricercato i progetti attraverso le opzioni di filtraggio disponibili.
-\item \textbf{Scenario principale}: 
+\item \textbf{Generalizzazioni}:
 \begin{enumerate}
 \item L'attore ricerca un progetto per ID [UC2.1.1].
 \item L'attore ricerca un progetto per uno specifico cliente associato [UC2.1.2].
@@ -208,7 +194,7 @@ L'unico attore coinvolto e identificato come \textit{Utente autenticato} corrisp
 \subsection{UC4: Tabella clienti}
 \begin{figure}[!h]
 \centering
-\includegraphics[width=300px]{../images/UC/.jpeg/UC4.0-tabellaClienti.jpg}
+\includegraphics[width=400px]{../images/UC/.jpeg/UC4.0-tabellaClienti.jpg}
 \caption{UC4: Tabella clienti}
 \end{figure}
 
@@ -222,22 +208,7 @@ L'unico attore coinvolto e identificato come \textit{Utente autenticato} corrisp
 \item L'attore visualizza la lista completa dei clienti presenti nel sistema [UC4.2].
 \item L'attore visualizza un cliente nel dettaglio [UC4.3].
 \end{enumerate}
-\end{itemize}
-
-\pagebreak
-
-\subsection{UC4.1: Ricerca clienti}
-\begin{figure}[!h]
-\centering
-\includegraphics[width=300px]{../images/UC/.jpeg/UC4.1-ricercaCliente.jpg}
-\caption{UC4.1: Ricerca clienti}
-\end{figure}
-
-\begin{itemize}
-\item \textbf{Attore primario}: Utente autenticato.
-\item \textbf{Precondizione}: L'attore ha accesso alla tabella dei clienti.
-\item \textbf{Postcondizione}: L'attore ha ricercato i clienti attraverso le opzioni di filtraggio disponibili.
-\item \textbf{Scenario principale}: 
+\item \textbf{Generalizzazioni}:
 \begin{enumerate}
 \item L'attore ricerca un cliente per ID [UC4.1.1].
 \item L'attore ricerca un cliente per codice (nominativo aziendale) [UC4.1.2].
@@ -261,7 +232,7 @@ L'unico attore coinvolto e identificato come \textit{Utente autenticato} corrisp
 \item \textbf{Scenario principale}: 
 \begin{enumerate}
 \item L'attore visualizza l'ID del cliente [UC4.2.1].
-\item L'attore visualizza la stringa "codice - titolo" del cliente [UC4.2.2].
+\item L'attore visualizza la stringa "codice - descrizione" del cliente [UC4.2.2].
 \end{enumerate}
 \end{itemize}
 
@@ -348,7 +319,7 @@ L'unico attore coinvolto e identificato come \textit{Utente autenticato} corrisp
 \subsection{UC5: Tabella offerte}
 \begin{figure}[!h]
 \centering
-\includegraphics[width=300px]{../images/UC/.jpeg/UC5.0-tabellaOfferte.jpg}
+\includegraphics[width=400px]{../images/UC/.jpeg/UC5.0-tabellaOfferte.jpg}
 \caption{UC5: Tabella offerte}
 \end{figure}
 
@@ -362,22 +333,7 @@ L'unico attore coinvolto e identificato come \textit{Utente autenticato} corrisp
 \item L'attore visualizza la lista completa delle offerte presenti nel sistema [UC5.2].
 \item L'attore visualizza un'offerta nel dettaglio [UC5.3].
 \end{enumerate}
-\end{itemize}
-
-\pagebreak
-
-\subsection{UC5.1: Ricerca offerte}
-\begin{figure}[!h]
-\centering
-\includegraphics[width=300px]{../images/UC/.jpeg/UC5.1.0-ricercaOfferte.jpg}
-\caption{UC5.1: Ricerca offerte}
-\end{figure}
-
-\begin{itemize}
-\item \textbf{Attore primario}: Utente autenticato.
-\item \textbf{Precondizione}: L'attore ha accesso alla tabella delle offerte.
-\item \textbf{Postcondizione}: L'attore ha ricercato le offerte attraverso le opzioni di filtraggio disponibili.
-\item \textbf{Scenario principale}: 
+\item \textbf{Generalizzazioni}:
 \begin{enumerate}
 \item L'attore ricerca un'offerta per ID [UC5.1.1].
 \item L'attore ricerca un'offerta per cliente associato [UC5.1.2].
