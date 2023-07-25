@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.28)  24 JUL 2023 17:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.28)  25 JUL 2023 18:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1365,7 +1365,7 @@ l.1 \cleardoublepage
 
  [6
 
-]) (./chapters/introduzione.tex
+] [7]) (./chapters/introduzione.tex
 Capitolo 1.
 LaTeX Font Info:    Trying to load font information for T1+cmss on input line 4
 .
@@ -1376,7 +1376,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmss' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-<images//../images/CWBI-logo.png, id=233, 121.05225pt x 37.94176pt>
+<images//../images/CWBI-logo.png, id=241, 121.05225pt x 37.94176pt>
 File: images//../images/CWBI-logo.png Graphic file (type png)
 <use images//../images/CWBI-logo.png>
 Package pdftex.def Info: images//../images/CWBI-logo.png  used on input line 12
@@ -1406,14 +1406,14 @@ Capitolo 3.
 [7
 
 ]
-<images//../images/UC/.jpeg/UC0-menu.jpg, id=284, 794.97pt x 674.52pt>
+<images//../images/UC/.jpeg/UC0-menu.jpg, id=291, 794.97pt x 674.52pt>
 File: images//../images/UC/.jpeg/UC0-menu.jpg Graphic file (type jpg)
 <use images//../images/UC/.jpeg/UC0-menu.jpg>
 Package pdftex.def Info: images//../images/UC/.jpeg/UC0-menu.jpg  used on input
  line 33.
 (pdftex.def)             Requested size: 301.1261pt x 255.50717pt.
  [8 <./images//../images/UC/.jpeg/UC0-menu.jpg>]
-<images//../images/UC/.jpeg/UC1-nuovoModificaProgetto.jpg, id=294, 1296.845pt x
+<images//../images/UC/.jpeg/UC1-nuovoModificaProgetto.jpg, id=301, 1296.845pt x
  935.495pt>
 File: images//../images/UC/.jpeg/UC1-nuovoModificaProgetto.jpg Graphic file (ty
 pe jpg)
@@ -1427,7 +1427,7 @@ Overfull \hbox (29.50146pt too wide) in paragraph at lines 56--57
  []
 
 [9 <./images//../images/UC/.jpeg/UC1-nuovoModificaProgetto.jpg>] [10]
-<images//../images/UC/.jpeg/UC2.0-tabellaProgetti.jpg, id=312, 1145.27875pt x 1
+<images//../images/UC/.jpeg/UC2.0-tabellaProgetti.jpg, id=320, 1145.27875pt x 1
 045.9075pt>
 File: images//../images/UC/.jpeg/UC2.0-tabellaProgetti.jpg Graphic file (type j
 pg)
@@ -1441,7 +1441,7 @@ Overfull \hbox (29.50146pt too wide) in paragraph at lines 91--92
  []
 
 [11 <./images//../images/UC/.jpeg/UC2.0-tabellaProgetti.jpg>] [12]
-<images//../images/UC/.jpeg/UC2.2-visualizzazioneListaProgetti.jpg, id=333, 864
+<images//../images/UC/.jpeg/UC2.2-visualizzazioneListaProgetti.jpg, id=340, 864
 .22874pt x 925.4575pt>
 File: images//../images/UC/.jpeg/UC2.2-visualizzazioneListaProgetti.jpg Graphic
  file (type jpg)
@@ -1450,7 +1450,7 @@ Package pdftex.def Info: images//../images/UC/.jpeg/UC2.2-visualizzazioneListaP
 rogetti.jpg  used on input line 122.
 (pdftex.def)             Requested size: 301.1261pt x 322.46048pt.
  [13 <./images//../images/UC/.jpeg/UC2.2-visualizzazioneListaProgetti.jpg>]
-<images//../images/UC/.jpeg/UC2.3-visualizzazioneDettaglioProgetto.jpg, id=345,
+<images//../images/UC/.jpeg/UC2.3-visualizzazioneDettaglioProgetto.jpg, id=352,
  858.20625pt x 1377.145pt>
 File: images//../images/UC/.jpeg/UC2.3-visualizzazioneDettaglioProgetto.jpg Gra
 phic file (type jpg)
@@ -1460,7 +1460,7 @@ lioProgetto.jpg  used on input line 147.
 (pdftex.def)             Requested size: 301.1261pt x 483.20575pt.
  [14 <./images//../images/UC/.jpeg/UC2.3-visualizzazioneDettaglioProgetto.jpg>]
  [15]
-<images//../images/UC/.jpeg/UC3.0-tabellaProgettiAperti.jpg, id=366, 733.74126p
+<images//../images/UC/.jpeg/UC3.0-tabellaProgettiAperti.jpg, id=373, 733.74126p
 t x 373.395pt>
 File: images//../images/UC/.jpeg/UC3.0-tabellaProgettiAperti.jpg Graphic file (
 type jpg)
@@ -1469,7 +1469,7 @@ Package pdftex.def Info: images//../images/UC/.jpeg/UC3.0-tabellaProgettiAperti
 .jpg  used on input line 177.
 (pdftex.def)             Requested size: 301.1261pt x 153.24107pt.
  [16 <./images//../images/UC/.jpeg/UC3.0-tabellaProgettiAperti.jpg>]
-<images//../images/UC/.jpeg/UC4.0-tabellaClienti.jpg, id=373, 1166.3575pt x 644
+<images//../images/UC/.jpeg/UC4.0-tabellaClienti.jpg, id=380, 1166.3575pt x 644
 .4075pt>
 File: images//../images/UC/.jpeg/UC4.0-tabellaClienti.jpg Graphic file (type jp
 g)
@@ -1483,7 +1483,7 @@ Overfull \hbox (29.50146pt too wide) in paragraph at lines 197--198
  []
 
 [17 <./images//../images/UC/.jpeg/UC4.0-tabellaClienti.jpg>]
-<images//../images/UC/.jpeg/UC4.2-visualizzazioneListaClienti.jpg, id=384, 825.
+<images//../images/UC/.jpeg/UC4.2-visualizzazioneListaClienti.jpg, id=392, 825.
 0825pt x 333.245pt>
 File: images//../images/UC/.jpeg/UC4.2-visualizzazioneListaClienti.jpg Graphic 
 file (type jpg)
@@ -1492,7 +1492,7 @@ Package pdftex.def Info: images//../images/UC/.jpeg/UC4.2-visualizzazioneListaC
 lienti.jpg  used on input line 224.
 (pdftex.def)             Requested size: 301.1261pt x 121.6207pt.
  [18 <./images//../images/UC/.jpeg/UC4.2-visualizzazioneListaClienti.jpg>]
-<images//../images/UC/.jpeg/UC4.3.0-visualizzazioneDettaglioCliente.jpg, id=392
+<images//../images/UC/.jpeg/UC4.3.0-visualizzazioneDettaglioCliente.jpg, id=399
 , 855.195pt x 664.4825pt>
 File: images//../images/UC/.jpeg/UC4.3.0-visualizzazioneDettaglioCliente.jpg Gr
 aphic file (type jpg)
@@ -1503,7 +1503,7 @@ aglioCliente.jpg  used on input line 244.
  [19 <./images//../images/UC/.jpeg/UC4.3.0-visualizzazioneDettaglioCliente.jpg>
 ]
 <images//../images/UC/.jpeg/UC4.3.3.0-visualizzazioneOfferteCorrelate.jpg, id=4
-03, 754.82pt x 333.245pt>
+10, 754.82pt x 333.245pt>
 File: images//../images/UC/.jpeg/UC4.3.3.0-visualizzazioneOfferteCorrelate.jpg 
 Graphic file (type jpg)
 <use images//../images/UC/.jpeg/UC4.3.3.0-visualizzazioneOfferteCorrelate.jpg>
@@ -1512,7 +1512,7 @@ ferteCorrelate.jpg  used on input line 268.
 (pdftex.def)             Requested size: 301.1261pt x 132.94476pt.
  [20 <./images//../images/UC/.jpeg/UC4.3.3.0-visualizzazioneOfferteCorrelate.jp
 g>]
-<images//../images/UC/.jpeg/UC4.3.3.1-nuovaModificaOfferta.jpg, id=410, 1367.10
+<images//../images/UC/.jpeg/UC4.3.3.1-nuovaModificaOfferta.jpg, id=417, 1367.10
 75pt x 764.8575pt>
 File: images//../images/UC/.jpeg/UC4.3.3.1-nuovaModificaOfferta.jpg Graphic fil
 e (type jpg)
@@ -1532,7 +1532,7 @@ e-ri-men-to di un'of-fer-ta [UC4.3.3.1.3].
  []
 
 [21 <./images//../images/UC/.jpeg/UC4.3.3.1-nuovaModificaOfferta.jpg>]
-<images//../images/UC/.jpeg/UC5.0-tabellaOfferte.jpg, id=423, 995.72pt x 744.78
+<images//../images/UC/.jpeg/UC5.0-tabellaOfferte.jpg, id=430, 995.72pt x 744.78
 25pt>
 File: images//../images/UC/.jpeg/UC5.0-tabellaOfferte.jpg Graphic file (type jp
 g)
@@ -1546,7 +1546,7 @@ Overfull \hbox (29.50146pt too wide) in paragraph at lines 322--323
  []
 
 [22 <./images//../images/UC/.jpeg/UC5.0-tabellaOfferte.jpg>]
-<images//../images/UC/.jpeg/UC5.2.0-visualizzazioneListaOfferte.jpg, id=435, 76
+<images//../images/UC/.jpeg/UC5.2.0-visualizzazioneListaOfferte.jpg, id=442, 76
 4.8575pt x 684.5575pt>
 File: images//../images/UC/.jpeg/UC5.2.0-visualizzazioneListaOfferte.jpg Graphi
 c file (type jpg)
@@ -1555,7 +1555,7 @@ Package pdftex.def Info: images//../images/UC/.jpeg/UC5.2.0-visualizzazioneList
 aOfferte.jpg  used on input line 350.
 (pdftex.def)             Requested size: 301.1261pt x 269.5146pt.
  [23 <./images//../images/UC/.jpeg/UC5.2.0-visualizzazioneListaOfferte.jpg>]
-<images//../images/UC/.jpeg/UC5.3.0-visualizzazioneDettaglioOfferta.jpg, id=447
+<images//../images/UC/.jpeg/UC5.3.0-visualizzazioneDettaglioOfferta.jpg, id=454
 , 774.895pt x 1186.4325pt>
 File: images//../images/UC/.jpeg/UC5.3.0-visualizzazioneDettaglioOfferta.jpg Gr
 aphic file (type jpg)
@@ -1611,24 +1611,38 @@ aglioOfferta.jpg  used on input line 374.
 > Step: build the whole table.
 ) (./chapters/strumenti-utilizzati.tex [30]
 Capitolo 4.
-) (./chapters/progettazione.tex [31
+[31
 
-] [32]
+]
+<images//../images/Spring-logo.png, id=505, 1284.8pt x 330.23375pt>
+File: images//../images/Spring-logo.png Graphic file (type png)
+<use images//../images/Spring-logo.png>
+Package pdftex.def Info: images//../images/Spring-logo.png  used on input line 
+20.
+(pdftex.def)             Requested size: 113.81102pt x 29.25113pt.
+<images//../images/Hibernate-logo.png, id=508, 557.2017pt x 154.6578pt>
+File: images//../images/Hibernate-logo.png Graphic file (type png)
+<use images//../images/Hibernate-logo.png>
+Package pdftex.def Info: images//../images/Hibernate-logo.png  used on input li
+ne 31.
+(pdftex.def)             Requested size: 142.26378pt x 39.48558pt.
+) (./chapters/progettazione.tex [32 <./images//../images/Spring-logo.png> <./im
+ages//../images/Hibernate-logo.png>] [33]
 Capitolo 5.
-) (./chapters/prodotto-finale.tex [33
+) (./chapters/prodotto-finale.tex [34
 
 ]
 Capitolo 6.
-) (./chapters/conclusioni.tex [34
+) (./chapters/conclusioni.tex [35
 
 ]
 Capitolo 7.
-) [35
+) [36
 
 ]
 No file thesis.acr.
 No file thesis.gls.
-(./appendix/bibliography.tex [36
+(./appendix/bibliography.tex [37
 
 ]
 
@@ -1643,23 +1657,15 @@ Package biblatex Warning: Type 'online' not found on input line 10.
 
 LaTeX Warning: Empty bibliography on input line 10.
 
-) (./appendix/glossary.tex [37
+) (./appendix/glossary.tex [38
 
 
-]) [38
+]) [39
 
 
-] (./thesis.aux
-
-Package mparhack Warning: Marginpars may have changed.
-(mparhack)                Rerun to get them right.
-
-)
+] (./thesis.aux)
 
 LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 
 Package biblatex Warning: Please (re)run Biber on the file:
@@ -1671,64 +1677,36 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 
  ) ) 
 Here is how much of TeX's memory you used:
- 40419 strings out of 474971
- 737744 string characters out of 5780120
- 1599921 words of memory out of 5000000
- 60841 multiletter control sequences out of 15000+600000
+ 40438 strings out of 474971
+ 738404 string characters out of 5780120
+ 1598967 words of memory out of 5000000
+ 60860 multiletter control sequences out of 15000+600000
  504361 words of font info for 160 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  96i,8n,125p,2259b,3116s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{section*.34} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section*.33} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{table.caption.11} has been referenced but does not 
-exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{figure.caption.13} has been referenced but does not
- exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{figure.caption.10} has been referenced but does not
- exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{chapter*.32} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{chapter*.31} has been referenced but does not exist
-, replaced by a fixed one
-
-{c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/texliv
-e/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2022/te
-xmf-dist/fonts/type1/public/cm-super/sfbx0900.pfb><c:/texlive/2022/texmf-dist/f
-onts/type1/public/cm-super/sfbx1000.pfb><c:/texlive/2022/texmf-dist/fonts/type1
-/public/cm-super/sfbx1200.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm
--super/sfbx1440.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfb
-x1728.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb>
-<c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb><c:/texliv
-e/2022/texmf-dist/fonts/type1/public/cm-super/sfcc1000.pfb><c:/texlive/2022/tex
-mf-dist/fonts/type1/public/cm-super/sfcc1200.pfb><c:/texlive/2022/texmf-dist/fo
-nts/type1/public/cm-super/sfcc1440.pfb><c:/texlive/2022/texmf-dist/fonts/type1/
-public/cm-super/sfrm0700.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-
-super/sfrm0900.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm
-1000.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><
-c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsi1000.pfb><c:/texlive
-/2022/texmf-dist/fonts/type1/public/cm-super/sfsl1000.pfb><c:/texlive/2022/texm
-f-dist/fonts/type1/public/cm-super/sfsl1200.pfb><c:/texlive/2022/texmf-dist/fon
-ts/type1/public/cm-super/sfti1000.pfb><c:/texlive/2022/texmf-dist/fonts/type1/p
-ublic/cm-super/sfti1200.pfb>
-Output written on thesis.pdf (45 pages, 1789250 bytes).
+{c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/te
+xlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/202
+2/texmf-dist/fonts/type1/public/cm-super/sfbx0900.pfb><c:/texlive/2022/texmf-di
+st/fonts/type1/public/cm-super/sfbx1000.pfb><c:/texlive/2022/texmf-dist/fonts/t
+ype1/public/cm-super/sfbx1200.pfb><c:/texlive/2022/texmf-dist/fonts/type1/publi
+c/cm-super/sfbx1440.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super
+/sfbx1728.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx2074.
+pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb><c:/te
+xlive/2022/texmf-dist/fonts/type1/public/cm-super/sfcc1000.pfb><c:/texlive/2022
+/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb><c:/texlive/2022/texmf-dis
+t/fonts/type1/public/cm-super/sfcc1440.pfb><c:/texlive/2022/texmf-dist/fonts/ty
+pe1/public/cm-super/sfrm0700.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public
+/cm-super/sfrm0900.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/
+sfrm1000.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1200.p
+fb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfsi1000.pfb><c:/tex
+live/2022/texmf-dist/fonts/type1/public/cm-super/sfsl1000.pfb><c:/texlive/2022/
+texmf-dist/fonts/type1/public/cm-super/sfsl1200.pfb><c:/texlive/2022/texmf-dist
+/fonts/type1/public/cm-super/sfti1000.pfb><c:/texlive/2022/texmf-dist/fonts/typ
+e1/public/cm-super/sfti1200.pfb>
+Output written on thesis.pdf (47 pages, 1863589 bytes).
 PDF statistics:
- 888 PDF objects out of 1000 (max. 8388607)
- 775 compressed objects within 8 object streams
- 254 named destinations out of 1000 (max. 500000)
- 55949 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 898 PDF objects out of 1000 (max. 8388607)
+ 779 compressed objects within 8 object streams
+ 252 named destinations out of 1000 (max. 500000)
+ 55959 words of extra memory for PDF output out of 61914 (max. 10000000)
 

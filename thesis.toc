@@ -35,33 +35,33 @@
 \contentsline {section}{\numberline {4.2}Framework}{31}{section.4.2}%
 \contentsline {subsection}{\numberline {4.2.1}Spring}{32}{subsection.4.2.1}%
 \contentsline {subsection}{\numberline {4.2.2}Hibernate}{32}{subsection.4.2.2}%
-\contentsline {subsection}{\numberline {4.2.3}Bootstrap}{32}{subsection.4.2.3}%
-\contentsline {subsection}{\numberline {4.2.4}Apache Struts}{32}{subsection.4.2.4}%
-\contentsline {section}{\numberline {4.3}Strumenti di codifica}{32}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}Java}{32}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}HTML5, CSS3 e JavaScript}{32}{subsection.4.3.2}%
-\contentsline {section}{\numberline {4.4}Librerie a supporto della codifica}{32}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}Apache commons}{32}{subsection.4.4.1}%
-\contentsline {subsection}{\numberline {4.4.2}JSTL}{32}{subsection.4.4.2}%
-\contentsline {subsection}{\numberline {4.4.3}WRO4J}{32}{subsection.4.4.3}%
-\contentsline {section}{\numberline {4.5}IDE}{32}{section.4.5}%
-\contentsline {subsection}{\numberline {4.5.1}Eclipse}{32}{subsection.4.5.1}%
-\contentsline {chapter}{\numberline {5}Progettazione}{33}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Architettura}{33}{section.5.1}%
-\contentsline {subsection}{\numberline {5.1.1}Pattern MDA}{33}{subsection.5.1.1}%
-\contentsline {subsection}{\numberline {5.1.2}Pattern MVC}{33}{subsection.5.1.2}%
-\contentsline {section}{\numberline {5.2}Design Pattern utilizzati}{33}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}Pattern IoC}{33}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.2.2}Pattern DAO}{33}{subsection.5.2.2}%
-\contentsline {chapter}{\numberline {6}Prodotto finale}{34}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Pagina 1 della webapp}{34}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Pagina 2 della webapp}{34}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Pagina 3 della webapp}{34}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Pagina 4 della webapp}{34}{section.6.4}%
-\contentsline {section}{\numberline {6.5}Pagina 5 della webapp}{34}{section.6.5}%
-\contentsline {section}{\numberline {6.6}Pagina N della webapp}{34}{section.6.6}%
-\contentsline {chapter}{\numberline {7}Conclusioni}{35}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Test e validazione}{35}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Resoconto dello stage}{35}{section.7.2}%
-\contentsline {chapter}{Bibliografia}{37}{chapter*.33}%
-\contentsline {chapter}{Glossario}{38}{chapter*.34}%
+\contentsline {subsection}{\numberline {4.2.3}Bootstrap}{33}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}Apache Struts}{33}{subsection.4.2.4}%
+\contentsline {section}{\numberline {4.3}Strumenti di codifica}{33}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Java}{33}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}HTML5, CSS3 e JavaScript}{33}{subsection.4.3.2}%
+\contentsline {section}{\numberline {4.4}Librerie a supporto della codifica}{33}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Apache commons}{33}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}JSTL}{33}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}WRO4J}{33}{subsection.4.4.3}%
+\contentsline {section}{\numberline {4.5}IDE}{33}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Eclipse}{33}{subsection.4.5.1}%
+\contentsline {chapter}{\numberline {5}Progettazione}{34}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Architettura}{34}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Pattern MDA}{34}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Pattern MVC}{34}{subsection.5.1.2}%
+\contentsline {section}{\numberline {5.2}Design Pattern utilizzati}{34}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Pattern IoC}{34}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Pattern DAO}{34}{subsection.5.2.2}%
+\contentsline {chapter}{\numberline {6}Prodotto finale}{35}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Pagina 1 della webapp}{35}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Pagina 2 della webapp}{35}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Pagina 3 della webapp}{35}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Pagina 4 della webapp}{35}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Pagina 5 della webapp}{35}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Pagina N della webapp}{35}{section.6.6}%
+\contentsline {chapter}{\numberline {7}Conclusioni}{36}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Test e validazione}{36}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Resoconto dello stage}{36}{section.7.2}%
+\contentsline {chapter}{Bibliografia}{38}{chapter*.35}%
+\contentsline {chapter}{Glossario}{39}{chapter*.36}%
