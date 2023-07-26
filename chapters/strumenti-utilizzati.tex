@@ -13,7 +13,7 @@ CWBI ha a disposizione circa 30 macchine fisiche con sistema operativo Debian, c
 \section{Framework}
 Nella seguente sezione sono riportati i {\hyperref[sec:framework-definition]{framework}}\glsfirstoccur \; utilizzati nelle attività di sviluppo del progetto commissionato. 
 
-\subsection{Spring}
+\subsection{Spring (core)}
 
 \begin{figure}[!h]
 	\centering
@@ -25,7 +25,22 @@ Nella seguente sezione sono riportati i {\hyperref[sec:framework-definition]{fra
 
 \setlength{\parskip}{3ex}
 
-\noindent Spring offre inoltre un'architettura \textbf{MVC} per lo sviluppo di progetti software che consente allo sviluppatore di separare la parte di modello e la parte di vista, gestendo quelle che possono essere le interazioni tra queste due componenti attraverso il componente controller.
+\noindent Per lo sviluppo back-end viene utilizzato solamente il  \textit{core container} offerto dal framework:
+
+\begin{figure}[!h]
+	\centering
+	\includegraphics[width=10cm]{../images/Spring-core.png}
+	\caption{Spring - core container}
+\end{figure}
+
+\begin{enumerate}
+\item il modulo bean fornisce le classi factory per l’istanziazione dei bean;
+\item il modulo core è la componente fondamentale del framework ed implementa la Dependency Injection;
+\item il modulo context fornisce l’accesso a tutti i bean definiti in funzione dei relativi contesti;
+\item il modulo SpEL fornisce un expression language per la manipolazione dei bean a runtime.
+\end{enumerate}
+
+\pagebreak
 
 \subsection{Hibernate}
 
@@ -40,8 +55,6 @@ Nella seguente sezione sono riportati i {\hyperref[sec:framework-definition]{fra
 \setlength{\parskip}{3ex}
 
 \noindent Hibernate gestisce inoltre l'accesso e la manipolazione dei dati stessi generando automaticamente le query in linguaggio SQL; questo agevola il lavoro dello sviluppatore, che non si deve occupare della scrittura manuale delle query di accesso ai dati del database ma solamente di definire gli oggetti che andranno memorizzati e gestiti nel database.
-
-\pagebreak
 
 \subsection{Bootstrap}
 
@@ -58,6 +71,8 @@ Nella seguente sezione sono riportati i {\hyperref[sec:framework-definition]{fra
 \noindent Gli stili che bootstrap propone sono ottimizzati per la visualizzazione smartphone, tablet e desktop. Inoltre, dato che la maggior parte degli accessi ad applicativi web avviene tramite cellulare, il framework mette al primo posto il layout per smartphone.\\
 Bootstrap è inoltre compatibile con i browser più moderni.
 
+\pagebreak
+
 \subsection{Apache Struts}
 
 \begin{figure}[!h]
@@ -66,7 +81,7 @@ Bootstrap è inoltre compatibile con i browser più moderni.
 	\caption{Logo di Apache Struts}
 \end{figure}
 
-\noindent Apache Struts è un framework open source Java che aiuta gli sviluppatori a creare applicazioni web flessibili, gestibili e sicure in Java. Il framework è caratterizzato da un architettura MVC che consente di raccogliere le richieste provenienti dalla vista e richiamare attraverso il controller le operazioni del modello necessarie a rendere persistenti i dati nel database. Tale architettura si integra con l'MVC offerto dal framework Spring sopra citato.
+\noindent Apache Struts è un framework open source Java che aiuta gli sviluppatori a creare applicazioni web flessibili, gestibili e sicure in Java. Il framework è caratterizzato da un architettura MVC che consente di raccogliere le richieste provenienti dalla vista e richiamare attraverso il controller le operazioni del modello necessarie a rendere persistenti i dati nel database. Tale architettura si integra con il framework Spring sopra citato.
 
 \pagebreak
 
