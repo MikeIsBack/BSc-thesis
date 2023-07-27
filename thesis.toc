@@ -41,25 +41,21 @@
 \contentsline {subsection}{\numberline {4.3.1}Java}{35}{subsection.4.3.1}%
 \contentsline {subsection}{\numberline {4.3.2}HTML5, CSS3 e JavaScript}{35}{subsection.4.3.2}%
 \contentsline {section}{\numberline {4.4}Librerie a supporto della codifica}{36}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}Apache commons}{36}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.1}Apache Commons}{36}{subsection.4.4.1}%
 \contentsline {subsection}{\numberline {4.4.2}JSTL}{36}{subsection.4.4.2}%
 \contentsline {section}{\numberline {4.5}IDE}{37}{section.4.5}%
 \contentsline {chapter}{\numberline {5}Progettazione}{38}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Architettura}{38}{section.5.1}%
-\contentsline {subsection}{\numberline {5.1.1}Approccio MDA}{38}{subsection.5.1.1}%
-\contentsline {subsection}{\numberline {5.1.2}Architettura MVC}{41}{subsection.5.1.2}%
-\contentsline {section}{\numberline {5.2}Design pattern}{41}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}Pattern IoC}{41}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.2.2}Pattern DAO}{41}{subsection.5.2.2}%
-\contentsline {chapter}{\numberline {6}Prodotto finale}{42}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Pagina 1 della webapp}{42}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Pagina 2 della webapp}{42}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Pagina 3 della webapp}{42}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Pagina 4 della webapp}{42}{section.6.4}%
-\contentsline {section}{\numberline {6.5}Pagina 5 della webapp}{42}{section.6.5}%
-\contentsline {section}{\numberline {6.6}Pagina N della webapp}{42}{section.6.6}%
-\contentsline {chapter}{\numberline {7}Conclusioni}{43}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Test e validazione}{43}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Resoconto dello stage}{43}{section.7.2}%
-\contentsline {chapter}{Bibliografia}{45}{chapter*.43}%
-\contentsline {chapter}{Glossario}{46}{chapter*.44}%
+\contentsline {section}{\numberline {5.1}Approccio MDA}{38}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Architettura MVC}{41}{section.5.2}%
+\contentsline {chapter}{\numberline {6}Prodotto finale}{44}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Pagina 1 della webapp}{44}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Pagina 2 della webapp}{44}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Pagina 3 della webapp}{44}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Pagina 4 della webapp}{44}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Pagina 5 della webapp}{44}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Pagina N della webapp}{44}{section.6.6}%
+\contentsline {chapter}{\numberline {7}Conclusioni}{45}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Test e validazione}{45}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Resoconto dello stage}{45}{section.7.2}%
+\contentsline {chapter}{Sitografia}{47}{chapter*.43}%
+\contentsline {chapter}{Glossario}{48}{chapter*.49}%

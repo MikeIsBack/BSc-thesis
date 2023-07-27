@@ -1,19 +1,24 @@
 \chapter{Progettazione}
 \label{cap:progettazione}
 
-\intro{Il seguente capitolo ha la funzione di illustrare l'architettura del sistema e i pattern utilizzati nel definirla.}
+\intro{Il seguente capitolo ha la funzione di illustrare l'approccio alla progettazione e all'architettura del sistema commissionato.}
 
 \setlength{\parskip}{3ex}
 
-\section{Architettura}
-Nella seguente sezione viene illustrato l'approccio iniziale e l'architettura del progetto commissionato.
-
-\subsection{Approccio MDA}
+\section{Approccio MDA}
 La filosofia dell'azienda per fronteggiare nuove attività e progetti si basa su un approccio di tipo MDA (Model Driven Architecture). L'idea alla base di tale approccio risiede nel fatto che il cuore di ogni applicazione si traduce in un modello solido e ben strutturato. 
 
 \setlength{\parskip}{3ex}
 
 \noindent L'approccio MDA è stato utilizzato anche per affrontare la fase di progettazione del sistema commissionato. In particolare la prima attività è stata quella di definire i modelli su cui l'intero sistema si basa. Per modello si intende un oggetto che deve essere mappato e gestito in una opportuna tabella di un database relazionale.   
+
+\setlength{\parskip}{3ex}
+
+\noindent I modelli vengono rappresentati dalla seguente stringa:
+
+\setlength{\parskip}{2ex}
+
+\noindent \textbf{NomeModello} (TipoAttributo1 nomeAttributo1, ..., TipoAttributoN nomeAttributoN).
 
 \pagebreak
 
@@ -82,21 +87,79 @@ La filosofia dell'azienda per fronteggiare nuove attività e progetti si basa su
 
 \setlength{\parskip}{6ex}
 
-\noindent I modelli \textbf{Cliente} e \textbf{Utente}, necessari per realizzare il progetto commissionato, erano già stati definiti per un altro modulo dell'applicazione CW GEST. In particolare questi modelli presentano rispettivamente un cliente e un dipendente di CWBI. Dato che tali modelli presentano le medesime caratteristiche pensate per il progetto in questione non si è reso necessario alterarli per l'utilizzo.
+\noindent I modelli \textbf{Cliente} e \textbf{Utente}, necessari per realizzare il progetto commissionato, erano già stati definiti per un altro modulo dell'applicazione CW GEST. In particolare questi modelli rappresentano rispettivamente un cliente e un dipendente di CWBI. Dato che tali modelli presentano le medesime caratteristiche pensate per il progetto in questione non si è reso necessario alterarli per l'utilizzo.
 
 \pagebreak
 
-\subsection{Architettura MVC}
-Come citato in precedenza, il framework Apache Struts mette a disposizione un'architettura MVC per costruire applicazioni web. In particolare l'architettura risulta essere la seguente:
+\section{Architettura MVC}
+Come citato in precedenza, il framework Apache Struts mette a disposizione un'architettura \textbf{MVC} (Model View Controller) per costruire applicazioni web. \\
+L'architettura di Struts non si differenzia particolarmente dalla filosofia di MVC: il controller gestisce tutte le operazioni della webapp e ha un riferimento sia al modello sia alla vista. 
+
+\setlength{\parskip}{3ex}
+
+\noindent L'architettura MVC messa a disposizione da Apache Struts viene rappresentata dal seguente schema:
 
 \begin{figure}[!h]
 	\centering
 	\includegraphics[width=9cm]{../images/MVC.png}
 	\caption{Architettura MVC di Apache Struts}
+	\label{fig:MVC}
 \end{figure}
 
-\section{Design pattern}
-\subsection{Pattern IoC}
+\setlength{\parskip}{3ex}
 
+\noindent I tre componenti principali della filosofia MVC corrispondo a:
+\begin{itemize}
+\item \textbf{FilterDispatcher} (Controller);
+\item \textbf{Action} (Model);
+\item \textbf{Template} (View).
+\end{itemize}
 
-\subsection{Pattern DAO}
+\noindent Come si può notare dalla {\hyperref[fig:MVC]{figura 5.1}}, l'architettura offerta dal framework è caratterizzata da diversi componenti che risulta necessario menzionare per apprendere a fondo il pieno funzionamento del sistema MVC di Apache Struts. Questi componenti sono i seguenti: 
+
+\begin{itemize}
+\item \textbf{FilterDispatcher}: rappresenta il controller del framework ed è il primo componente ad agire nel ciclo di elaborazione della richiesta. Il controller ispeziona ogni richiesta in arrivo per determinare quale action dovrebbe gestire la richiesta.
+\setlength{\parskip}{3ex}
+
+\item \textbf{Action}: rappresenta una funzione dell'applicativo ed è qui che viene definita la logica applicativa del sistema.\\
+In particolare ogni modello è caratterizzato da n action che gestiscono le funzionalità che devono essere garantite all'utente (es. una action per la pagina di dettaglio, una per la creazione/modifica dell'oggetto, una per la ricerca dell'oggetto attraverso dei filtri, ecc.).
+\setlength{\parskip}{3ex}
+
+\item \textbf{ActionMapper}: viene utilizzata da FilterDispatcher per determinare se la richiesta deve richiamare una action o meno. Quando viene fornito un HttpServletRequest, ActionMapper può restituire null se nessuna action corrisponde alla richiesta  oppure può restituire un ActionMapping che descrive la chiamata.
+
+\setlength{\parskip}{3ex}
+
+\item \textbf{ActionProxy}: se ActionMapper determina che deve essere richiamata una action per tale richiesta, FilterDispatcher delega il controllo ad ActionProxy. L'ActionProxy si consulta con ConfigurationManager, un'interfaccia che descrive la configurazione del framework, e crea una ActionInvocation che si occupa di richiamare l'opportuna action che deve gestire la richiesta entrante.
+\setlength{\parskip}{3ex}
+
+\item \textbf{Interceptor}: corrispondono a dei componenti che vengono richiamati prima di eseguire la action e hanno il compito di preparare e inizializzare le action stesse.
+\setlength{\parskip}{3ex}
+
+\item \textbf{Result}: corrisponde al risultato costruito e ritornato dalla action e che viene rappresentato da una pagina JSP.
+\setlength{\parskip}{3ex}
+
+\item \textbf{Template}: corrispondono alle pagine di visualizzazione che effettivamente restituiscono la risposta all'utente.
+\setlength{\parskip}{3ex}
+
+\end{itemize}
+
+\pagebreak
+
+\noindent Il ciclo che parte da una richiesta entrante risulta essere il seguente:
+\begin{enumerate}
+\item la richiesta viene raccolta da ActionMapper;
+
+\item viene chiamato il filtro FilterDispatcher che consulta ActionMapper per determinare se un'azione deve essere richiamata;
+
+\item se ActionMapper trova che un'azione deve essere richiamata, FilterDispatcher delega il controllo ad ActionProxy;
+
+\item ActionProxy legge il file di configurazione (struts.xml). ActionProxy crea un'istanza della classe ActionInvocation e delega il controllo.
+
+\item ActionInvocation gli Interceptor uno per uno (se richiesto) e quindi invoca la action;
+
+\item la action ritorna il risultato, gli Interceptor vengono eseguiti nuovamente in ordine inverso e la risposta viene restituita a FilterDispatcher;
+
+\item Il risultato viene quindi inviato al contenitore servlet che a sua volta lo rispedisce al client.
+\end{enumerate}
+
+\pagebreak
