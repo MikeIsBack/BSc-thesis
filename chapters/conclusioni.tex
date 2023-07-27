@@ -6,6 +6,187 @@
 \setlength{\parskip}{3ex}
 
 \section{Test e validazione}
+L'attività conclusiva del percorso di stage è stata quella di testare e verificare insieme al tutor aziendale il prodotto finale composto dai requisiti individuati nell'attività di analisi.
+
+\setlength{\parskip}{3ex} 
+
+\noindent Si riporta quindi una tabella riassuntiva dei {\hyperref[sec:test-definition]{test di sistema}}\glsfirstoccur \; effettuati sul prodotto finale. Ciascun test è caratterizzato dal requisito di riferimento, una descrizione e l'esito.
+
+\pagebreak
+
+\subsection{Test di sistema}
+\begin{table}[!h]
+	\centering
+	\begin{tblr}{
+		colspec={|c|X|c|},
+		row{odd}={bg=white},
+		row{even}={bg=gray!30},
+		row{1}={bg=white,fg=black}
+		}
+		\hline 
+		\textbf{Requisito} & \textbf{Descrizione} & \textbf{Esito} \\
+		\hline
+		RFO1 &	L’utente deve poter utilizzare il menu. &	Superato \\
+RFO2 &	L’utente deve poter creare un nuovo progetto. &	Superato \\
+RFO3 &	L’utente deve poter accedere alla tabella dei progetti. &	Superato \\
+RFO4 &	L’utente deve poter accedere alla tabella dei progetti aperti. &	Superato \\
+RFO5 &	L’utente deve poter accedere alla tabella dei clienti. &	Superato \\
+RFO6 &	L’utente deve poter accedere alla tabella delle offerte. &	Superato \\
+RFO7 &	L’utente inserisce il codice del progetto. &	Superato \\
+RFO8 &	L’utente inserisce il titolo del progetto. &	Superato \\
+RFO9 &	L’utente inserisce la descrizione del progetto. &	Superato \\
+RFO10 &	L’utente inserisce la data di inizio del progetto. &	Superato \\
+RFO11 & 	L’utente seleziona il cliente committente del progetto. &	Superato \\
+RFO12 &	L’utente seleziona il responsabile interno del progetto. & Superato \\
+RFO13 &	L’utente seleziona lo stato di avanzamento del progetto. &	Superato \\
+RFO14 &	L’utente inserisce i giorni di sviluppo previsti. &	Superato \\
+RFO15 &	L’utente seleziona la percentuale di avanzamento del progetto. &	Superato \\
+RFO16 &	L’utente visualizza un errore quando lascia vuoto il campo codice del progetto. &	Superato \\
+RFO17 &	L’utente visualizza un errore quando lascia vuoto il campo titolo del progetto. &	Superato \\
+RFO18 &	L’utente visualizza un errore quando lascia vuoto il campo descrizione del progetto. &	Superato \\
+RFO19 & L’utente visualizza un errore quando lascia vuoto il campo data di inizio del progetto. &	Superato \\
+RFO20 &	L’utente visualizza un errore quando lascia vuoto il campo giorni di sviluppo del progetto. &	Superato \\
+RFO21 &	L’utente può ricercare uno o più progetti. & Superato \\
+RFO22 & 	L’utente ricerca un progetto per ID. &	Superato \\
+RFO23 &	L’utente ricerca un progetto per cliente associato. &	Superato \\
+RFO24 &	L’utente ricerca un progetto per responsabile interno. &	Superato \\
+RFO25 &	L’utente ricerca un progetto per codice di progetto. &	Superato \\
+RFO26 & L’utente ricerca un progetto per titolo. &	Superato \\ 
+		\hline
+	\end{tblr}
+\end{table}
+
+\pagebreak
+
+\begin{table}[!h]
+	\centering
+	\begin{tblr}{
+		colspec={|c|X|c|},
+		row{odd}={bg=white},
+		row{even}={bg=gray!30},
+		row{1}={bg=white,fg=black}
+		}
+		\hline 
+		\textbf{Requisito} & \textbf{Descrizione} & \textbf{Esito} \\
+		\hline
+RFO27 &	L’utente ricerca un progetto per stato di avanzamento. &	Superato \\
+RFO28 &	L’utente ricerca un progetto per data di creazione. &	Superato \\
+RFO29 &	L’utente visualizza la lista dei progetti.&	Superato \\
+RFO30 &	L’utente visualizza il dettaglio di un progetto. &	Superato \\
+RFO31 &	L’utente visualizza l’ID di un progetto. &	Superato \\
+RFO32 &	L’utente visualizza la stringa “codice - titolo” di un progetto. &	Superato \\
+RFO33 &	L’utente visualizza il committente di un progetto.&	Superato \\
+RFO34 &	L’utente visualizza il responsabile interno di un progetto.&	Superato \\
+RFO35 &	L’utente visualizza lo stato di avanzamento di un progetto.&	Superato \\
+RFO36 &	L’utente visualizza la data di inizio di un progetto.&	Superato \\
+RFO37 &	L’utente visualizza i giorni di sviluppo previsti di un progetto.&	Superato \\
+RFO38 &	L’utente visualizza la descrizione del progetto.&	Superato \\
+RFO39 &	L’utente visualizza la percentuale di avanzamento del progetto.&	Superato \\
+RFO40 &	L’utente visualizza e gestisce i clienti del progetto.&	Superato \\
+RFO41 &	L’utente modifica il progetto.&	Superato \\
+RFO42 &	L’utente elimina il progetto.&	Superato \\
+RFO43 &	L’utente ricerca uno o più clienti. &	Superato \\
+RFO44 &	L’utente ricerca un cliente per ID. &	Superato \\
+RFO45 &	L’utente ricerca un cliente per codice. &	Superato \\
+RFO46 &	L’utente ricerca un cliente per descrizione. &	Superato \\
+RFO47 &	L’utente visualizza la lista dei clienti. &	Superato \\
+RFO48 &	L’utente visualizza il dettaglio di un cliente. &	Superato \\
+RFO49 &	L’utente visualizza l’ID di un cliente. &	Superato \\
+RFO50 &	L’utente visualizza la stringa “codice – descrizione” di un cliente. &	Superato \\
+RFO51 &	L’utente visualizza partita iva del cliente. &	Superato \\
+RFO52 &	L’utente visualizza il codice fiscale del cliente. &	Superato \\
+RFO53 &	L’utente visualizza la lista dei progetti associati al cliente. &	Superato \\ 
+		\hline
+	\end{tblr}
+\end{table}
+
+\pagebreak
+
+\begin{table}[!h]
+	\centering
+	\begin{tblr}{
+		colspec={|c|X|c|},
+		row{odd}={bg=white},
+		row{even}={bg=gray!30},
+		row{1}={bg=white,fg=black}
+		}
+		\hline 
+		\textbf{Requisito} & \textbf{Descrizione} & \textbf{Esito} \\
+		\hline
+RFO54 &	L’utente visualizza la lista delle offerte associate al cliente.  &	Superato \\
+RFO55 &	L’utente crea una nuova offerta. &	Superato \\
+RFO56 &	L’utente visualizza la lista delle offerte. &	Superato \\
+RFO57 &	L’utente inserisce il titolo dell’offerta. &	Superato \\
+RFO58 &	L’utente inserisce la descrizione dell’offerta. &	Superato \\
+RFO59 &	L’utente seleziona il progetto coinvolto nell’offerta. &	Superato \\
+RFO60 &	L’utente seleziona lo stato attuale dell’offerta. &	Superato \\
+RFO61 &	L’utente inserisce l’imponibile 1 dell’offerta. &	Superato \\
+RFO62 &	L’utente inserisce l’imponibile 2 dell’offerta. &	Superato \\
+RFO63 &	L’utente inserisce l’imponibile 3 dell’offerta. &	Superato \\
+RFO64 &	L’utente visualizza un errore quando lascia vuoto il campo titolo dell’offerta. &	Superato \\
+RFO65 &	L’utente visualizza un errore quando lascia vuoto il campo descrizione dell’offerta. &	Superato \\
+RFO66 &	L’utente visualizza un errore quando lascia vuoto il campo imponibile 1 dell’offerta. &	Superato \\
+RFO67 &	L’utente visualizza un errore quando il tipo di valore inserito del campo imponibile 1 non è numerico. &	Superato \\
+RFO68 &	L’utente visualizza un errore quando il tipo di valore inserito del campo imponibile 2 non è numerico. &	Superato \\
+RFO69 &	L’utente visualizza un errore quando il tipo di valore inserito del campo imponibile 3 non è numerico. &	Superato \\
+RFO70 &	L’utente ricerca una o più offerte. &	Superato \\
+RFO71 &	L’utente ricerca un’offerta per ID. &	Superato \\
+RFO72 &	L’utente ricerca un’offerta per cliente associato. &	Superato \\
+RFO73 &	L’utente ricerca un’offerta per stato attuale. &	Superato \\
+RFO74 &	L’utente ricerca un’offerta per data di stipula. &	Superato \\
+RFO75 &	L’utente visualizza il dettaglio di un’offerta. &	Superato \\
+RFO76 &	L’utente visualizza l’ID di un’offerta. &	Superato \\
+RFO77 &	L’utente visualizza la data di stipula di un’offerta. &	Superato \\
+RFO78 &	L’utente visualizza il cliente coinvolto di un’offerta. &	Superato \\
+RFO79 &	L’utente visualizza lo stato di un’offerta. &	Superato \\
+		\hline
+	\end{tblr}
+\end{table}
+
+\pagebreak
+
+\begin{table}[!h]
+	\centering
+	\begin{tblr}{
+		colspec={|c|X|c|},
+		row{odd}={bg=white},
+		row{even}={bg=gray!30},
+		row{1}={bg=white,fg=black}
+		}
+		\hline 
+		\textbf{Requisito} & \textbf{Descrizione} & \textbf{Esito} \\
+		\hline
+RFO80 &	L’utente visualizza il titolo di un’offerta. &	Superato \\
+RFO81 &	L’utente visualizza il progetto di un’offerta. &	Superato \\
+RFO82 &	L’utente visualizza la descrizione dell’offerta. &	Superato \\
+RFO83 &	L’utente visualizza l’imponibile 1 dell’offerta. &	Superato \\
+RFO84 &	L’utente visualizza l’imponibile 2 dell’offerta. &	Superato \\
+RFO85 &	L’utente visualizza l’imponibile 3 dell’offerta. &	Superato \\
+RFO86 &	L’utente modifica l’offerta. &	Superato \\
+RFO87 &	L’utente elimina l’offerta. &	Superato \\
+RVO1 &	L'applicativo lato back-end è realizzato in Java. &	Superato \\
+RVO2 &	L'applicativo lato back-end è realizzato mediante il framework Spring. &	Superato \\
+RVO3 &	L'applicativo lato back-end è realizzato mediante il framework Hibernate. & 	Superato \\
+RVO4 &	L'applicativo lato fron-end è realizzato tramite HTML5, CSS3 e JavaScript. &	Superato \\
+RVO5 &	L'applicativo lato front-end è realizzato mediante il framework Bootstrap. &	Superato \\
+RVO6 &	L'applicativo deve essere funzionante in tutte le sue componenti. &	Superato \\
+		\hline
+	\end{tblr}
+	\setlength{\parskip}{2ex}
+	\caption{Test di sistema}
+\end{table}
+
+\noindent Tutti i requisiti richiesti, obbligatori e di vincolo, sono stati soddisfatti con un riscontro positivo anche da parte del tutor aziendale. 
+
+\pagebreak
 
 \section{Resoconto dello stage}
+L'attività di stage mi ha permesso di entrare a far parte di un nuovo lato della programmazione, ovvero lo sviluppo di applicazione Java EE. Le metodologie di approccio aziendali volte all'affrontare nuovi progetti e attività sono stimolanti e rappresentano un metodo di lavoro solido e duraturo che hanno portato ad una mia crescita professionale. 
 
+\setlength{\parskip}{3ex}
+
+\noindent Lo stage mi ha permesso di conoscere e apprendere nuove tecnologie molto utilizzate nella programmazione, tra cui: Spring, Hibernate, Bootstrap e Struts. Questa conoscenza appresa ha sicuramente arricchito il mio bagaglio informatico.
+
+\setlength{\parskip}{3ex}
+
+\noindent Ho avuto inoltre la possibilià di lavorare con un team di esperti e appassionati del settore che mi hanno trasmesso la loro conoscenza e la passione con cui operano nel mondo dello sviluppo software.
