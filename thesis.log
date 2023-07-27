@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.28)  27 JUL 2023 16:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.28)  27 JUL 2023 17:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1783,7 +1783,7 @@ Here is how much of TeX's memory you used:
  743016 string characters out of 5780120
  1599376 words of memory out of 5000000
  60973 multiletter control sequences out of 15000+600000
- 515033 words of font info for 194 fonts, out of 8000000 for 9000
+ 514985 words of font info for 194 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  96i,8n,125p,2259b,3156s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/te
@@ -1806,7 +1806,7 @@ texmf-dist/fonts/type1/public/cm-super/sfsl1200.pfb><c:/texlive/2022/texmf-dist
 /fonts/type1/public/cm-super/sfti1000.pfb><c:/texlive/2022/texmf-dist/fonts/typ
 e1/public/cm-super/sfti1200.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/
 cm-super/sftt1000.pfb>
-Output written on thesis.pdf (60 pages, 2188318 bytes).
+Output written on thesis.pdf (60 pages, 2188362 bytes).
 PDF statistics:
  1009 PDF objects out of 1200 (max. 8388607)
  859 compressed objects within 9 object streams
