@@ -87,7 +87,7 @@ L'utente può inoltre cancellare i dati inseriti nel form di ricerca tramite l'o
 \label{fig:dettaglioProgetto}
 \end{figure}
 
-\noindent La pagina di dettaglio di un progetto ({\hyperref[fig:dettaglioProgetto]{figura 6.4}}) consente all'utente di visualizzare i dettagli di un progetto selezionato. Nella pagina sono presenti i medesimi dati inseriti in fase di creazione del progetto. Nella pagina sono presenti le funzionalità di \textit{modifica} ed \textit{eliminazione} del progetto. È inoltre presente una tabella che mostra l'elenco di tutti i clienti interessati al progetto. 
+\noindent La pagina di dettaglio di un progetto ({\hyperref[fig:dettaglioProgetto]{figura 6.4}}) consente all'utente di visualizzare i dettagli di uno specifico progetto. Nella pagina sono presenti i medesimi dati inseriti in fase di creazione del progetto ({\hyperref[fig:nuovoProgetto]{figura 6.2}}). Nella pagina sono presenti le funzionalità di \textit{modifica}, solo per i progetti non ancora chiusi, ed \textit{eliminazione} del progetto. È inoltre presente una tabella che mostra l'elenco di tutti i clienti interessati al progetto. 
 
 \begin{figure}[!h]
 \centering
@@ -96,7 +96,7 @@ L'utente può inoltre cancellare i dati inseriti nel form di ricerca tramite l'o
 \label{fig:gestioneClienti}
 \end{figure}
 
-\noindent Tramite la funzionalità \textit{Gestione clienti} presente nella pagina di dettaglio di un progetto ({\hyperref[fig:gestioneClienti]{figura 6.5}}) si arriva alla pagina ({\hyperref[fig:dettaglioProgetto]{figura 6.4}}) che consente di aggiungere e rimuovere i clienti interessati al progetto.
+\noindent Tramite la funzionalità \textit{Gestione clienti} presente nella pagina di dettaglio di un progetto ({\hyperref[fig:dettaglioProgetto]{figura 6.4}}) si arriva alla pagina ({\hyperref[fig:gestioneClienti]{figura 6.5}}) che consente di aggiungere e rimuovere i clienti interessati al progetto.
 
 \pagebreak
 
@@ -108,7 +108,7 @@ L'utente può inoltre cancellare i dati inseriti nel form di ricerca tramite l'o
 \label{fig:tabellaProgettiAperti}
 \end{figure}
 
-\noindent La tabella dei progetti aperti ({\hyperref[fig:tabellaProgettiAperti]{figura 6.6}}) consente all'utente di visualizzare la lista di tutti i progetti ancora aperti. Oltre che visualizzare i dati principali dei progetti in elenco, consente per ciascun progetto in linea di accedere alla pagina di modifica e alla pagina di dettaglio ({\hyperref[fig:dettaglioProgetto]{figura 6.4}}).  
+\noindent La tabella dei progetti aperti ({\hyperref[fig:tabellaProgettiAperti]{figura 6.6}}) consente all'utente di visualizzare la lista di tutti i progetti ancora aperti. Oltre a visualizzare i dati principali dei progetti in elenco, la pagina consente per ciascun progetto in linea di accedere alla pagina di modifica, corrispondente alla pagina di creazione ({\hyperref[fig:nuovoProgetto]{figura 6.2}}) con l'unica differenza che i campi saranno precompilati con i valori del progetto memorizzato, e alla pagina di dettaglio ({\hyperref[fig:dettaglioProgetto]{figura 6.4}}).  
 
 \pagebreak
 
@@ -122,7 +122,7 @@ L'utente può inoltre cancellare i dati inseriti nel form di ricerca tramite l'o
 
 \noindent La tabella dei clienti ({\hyperref[fig:tabellaClienti]{figura 6.7}}) consente all'utente di:
 \begin{itemize}
-\item visualizzare la lista completa dei clienti presenti nel sistema. Per ogni cliente visualizzato è possibile accedere alla sua pagina di dettaglio (INSERIRE FIGURA); 
+\item visualizzare la lista completa dei clienti presenti nel sistema. Per ogni cliente visualizzato è possibile accedere alla sua pagina di dettaglio ({\hyperref[fig:dettaglioCliente1]{figura 6.8}}); 
 \item ricercare uno o più clienti tramite il form di ricerca composto dai seguenti campi tutti opzionali:
 \begin{itemize}
 \item istituto, campo standard presente in tutti i form di ricerca dell'azienda. Consente di ricerca progetti correlati ad una delle sedi di CWBI;
@@ -182,7 +182,36 @@ I campi che compongono la nuova offerta sono i seguenti:
 \pagebreak
 
 \section{Tabella offerte}
+\begin{figure}[!h]
+\centering
+\includegraphics[width=380px]{../images/UI/11-tabellaOfferte.png}
+\caption{Modulo Campaign: Tabella offerte}
+\label{fig:tabellaOfferte}
+\end{figure}
+
+\noindent La tabella delle offerte ({\hyperref[fig:tabellaOfferte]{figura 6.11}}) consente all'utente di:
+\begin{itemize}
+\item visualizzare la lista completa delle offerte presenti nel sistema. Per ogni offerta visualizzata è possibile modificare l'offerta stessa, corrispondente alla pagina di creazione ({\hyperref[fig:nuovaOfferta]{figura 6.10}}) con l'unica differenza che i campi saranno precompilati con i valori dell'offerta memorizzata, e/o accedere alla sua pagina di dettaglio ({\hyperref[fig:dettaglioOfferta]{figura 6.12}}); 
+\item ricercare una o più offerte tramite il form di ricerca composto dai seguenti campi tutti opzionali:
+\begin{itemize}
+\item istituto, campo standard presente in tutti i form di ricerca dell'azienda. Consente di ricerca progetti correlati ad una delle sedi di CWBI;
+\item ID del cliente, assegnato dal database;
+\item cliente correlato;
+\item progetto correlato;
+\item stato attuale;
+\item data di creazione.
+\end{itemize}
+L'utente può inoltre cancellare i dati inseriti nel form di ricerca tramite l'opzione \textit{Reset} e effettuare la ricerca tramite l'opzione \textit{Cerca}.
+\end{itemize}
 
 \pagebreak
 
 \section{Dettaglio di un'offerta}
+\begin{figure}[!h]
+\centering
+\includegraphics[width=380px]{../images/UI/12-dettaglioOfferta.png}
+\caption{Modulo Campaign: Dettaglio di un'offerta}
+\label{fig:dettaglioOfferta}
+\end{figure}
+
+\noindent La pagina di dettaglio di un'offerta ({\hyperref[fig:dettaglioOfferta]{figura 6.12}}) consente all'utente di visualizzare i dettagli di una specifica offerta. Nella pagina sono presenti i medesimi dati inseriti in fase di creazione dell'offerta ({\hyperref[fig:nuovaOfferta]{figura 6.10}}). Nella pagina sono presenti le funzionalità di \textit{modifica}, solo per le offerte non ancora accettate, ed \textit{eliminazione} dell'offerta.

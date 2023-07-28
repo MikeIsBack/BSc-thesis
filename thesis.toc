@@ -3,7 +3,7 @@
 \contentsline {chapter}{\numberline {1}Introduzione}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}L'azienda}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Aspettative personali}{2}{section.1.2}%
-\contentsline {section}{\numberline {1.3}Organizzazione del testo}{2}{section.1.3}%
+\contentsline {section}{\numberline {1.3}Organizzazione del testo}{3}{section.1.3}%
 \contentsline {chapter}{\numberline {2}Descrizione dello stage}{4}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Il problema}{4}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Il progetto}{4}{section.2.2}%
@@ -61,5 +61,5 @@
 \contentsline {section}{\numberline {7.1}Test e validazione}{54}{section.7.1}%
 \contentsline {subsection}{\numberline {7.1.1}Test di sistema}{55}{subsection.7.1.1}%
 \contentsline {section}{\numberline {7.2}Resoconto dello stage}{59}{section.7.2}%
-\contentsline {chapter}{Sitografia}{60}{chapter*.57}%
-\contentsline {chapter}{Glossario}{61}{chapter*.63}%
+\contentsline {chapter}{Sitografia}{60}{chapter*.59}%
+\contentsline {chapter}{Glossario}{61}{chapter*.65}%
