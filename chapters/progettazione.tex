@@ -87,7 +87,28 @@ La filosofia dell'azienda per fronteggiare nuove attività e progetti si basa su
 
 \setlength{\parskip}{6ex}
 
-\noindent I modelli \textbf{Cliente} e \textbf{Utente}, necessari per realizzare il progetto commissionato, erano già stati definiti per un altro modulo dell'applicazione CW GEST. In particolare questi modelli rappresentano rispettivamente un cliente e un dipendente di CWBI. Dato che tali modelli presentano le medesime caratteristiche pensate per il progetto in questione non si è reso necessario alterarli per l'utilizzo.
+\noindent I modelli \textbf{Cliente} e \textbf{Utente}, necessari per realizzare il progetto commissionato, erano già stati definiti per un altro modulo dell'applicazione CW GEST. In particolare questi modelli rappresentano rispettivamente un cliente e un dipendente di CWBI che assume il ruolo di responsabile per un certo progetto. Dato che tali modelli presentano le medesime caratteristiche pensate per il progetto in questione non si è reso necessario alterarli per l'utilizzo.
+
+\setlength{\parskip}{3ex}
+
+\noindent Ai fini del progetto in questione non si rende necessario esporre la struttura del modello Utente; per tale modello infatti l'unico campo utile nell'applicativo risulta essere il nominativo, in modo da conoscere il dipendente responsabile di un certo progetto. Data invece la centralità del modello Cliente nel contesto dell'applicativo commissionato, si riporta comunque una sua caratterizzazione:
+\begin{itemize}
+\item \textbf{Cliente} (String codice, String descrizione, String partitaIva, String codiceFiscale)
+
+\setlength{\parskip}{3ex}
+
+\textbf{DESCRIZIONE}: questo modello rappresenta un cliente di CWBI.
+
+\setlength{\parskip}{3ex}
+
+\textbf{ATTRIBUTI}:
+\begin{itemize}
+\item \textit{codice} corrisponde al nominativo del cliente (es. azienda x);
+\item \textit{descrizione} corrisponde al nominativo esteso del cliente (es. azienda x SPA);
+\item \textit{partitaIva} corrisponde alla partitaIva del cliente;
+\item \textit{codiceFiscale} corrisponde al codice fiscale del cliente.
+\end{itemize}
+\end{itemize} 
 
 \pagebreak
 
@@ -121,8 +142,16 @@ L'architettura di Struts non si differenzia particolarmente dalla filosofia del 
 \item \textbf{FilterDispatcher}: rappresenta il controller del framework ed è il primo componente ad agire nel ciclo di elaborazione della richiesta. Il controller ispeziona ogni richiesta in arrivo per determinare quale action dovrebbe gestire la richiesta.
 \setlength{\parskip}{3ex}
 
-\item \textbf{Action}: rappresenta una funzione dell'applicativo ed è qui che viene definita la logica applicativa del sistema.\\
-In particolare ogni modello è caratterizzato da n action che gestiscono le funzionalità che devono essere garantite all'utente (es. una action per recuperare il dettaglio di un oggetto, una per la creazione/modifica dell'oggetto, una per la ricerca dell'oggetto attraverso dei filtri, ecc.).
+\item \textbf{Action}: rappresenta una funzione dell'applicativo ed è qui che viene definita la logica applicativa del sistema.
+
+\setlength{\parskip}{2ex}
+
+In particolare ogni modello è caratterizzato da n action che gestiscono le n funzionalità che devono essere garantite all'utente per quel modello (es. una action per recuperare il dettaglio di un progetto, una per la creazione/modifica di un progetto, una per la ricerca di un progetto attraverso dei filtri, ecc.).
+
+\setlength{\parskip}{2ex}
+
+Nel dettaglio, ciascuna action ha visibilità delle classi \textit{service}, una per ciascun modello di interesse, necessarie per recuperare i dati del modello dal database. Questo avviene invocando le opportune query SQL costruite mediante il framework Hibernate e esposte dalla classe service in modo che queste possano essere utilizzate dalle opportune action per recuperare i dati di interesse dal database.
+
 \setlength{\parskip}{3ex}
 
 \item \textbf{ActionMapper}: viene utilizzata da FilterDispatcher per determinare se la richiesta deve richiamare una action o meno. Quando viene fornito un HttpServletRequest, ActionMapper può restituire null se nessuna action corrisponde alla richiesta  oppure può restituire un ActionMapping che descrive la chiamata.

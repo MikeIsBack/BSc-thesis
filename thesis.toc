@@ -48,15 +48,18 @@
 \contentsline {section}{\numberline {5.1}Approccio MDA}{38}{section.5.1}%
 \contentsline {section}{\numberline {5.2}Architettura MVC}{41}{section.5.2}%
 \contentsline {chapter}{\numberline {6}Prodotto finale}{44}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Pagina 1 della webapp}{44}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Pagina 2 della webapp}{44}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Pagina 3 della webapp}{44}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Pagina 4 della webapp}{44}{section.6.4}%
-\contentsline {section}{\numberline {6.5}Pagina 5 della webapp}{44}{section.6.5}%
-\contentsline {section}{\numberline {6.6}Pagina N della webapp}{44}{section.6.6}%
-\contentsline {chapter}{\numberline {7}Conclusioni}{45}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Test e validazione}{45}{section.7.1}%
-\contentsline {subsection}{\numberline {7.1.1}Test di sistema}{46}{subsection.7.1.1}%
-\contentsline {section}{\numberline {7.2}Resoconto dello stage}{50}{section.7.2}%
-\contentsline {chapter}{Sitografia}{51}{chapter*.47}%
-\contentsline {chapter}{Glossario}{52}{chapter*.53}%
+\contentsline {section}{\numberline {6.1}Menu}{44}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Creazione di un progetto}{45}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Tabella progetti}{46}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Dettaglio di un progetto}{47}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Tabella progetti aperti}{48}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Tabella clienti}{49}{section.6.6}%
+\contentsline {section}{\numberline {6.7}Dettaglio di un cliente}{50}{section.6.7}%
+\contentsline {section}{\numberline {6.8}Tabella offerte}{52}{section.6.8}%
+\contentsline {section}{\numberline {6.9}Dettaglio di un'offerta}{53}{section.6.9}%
+\contentsline {chapter}{\numberline {7}Conclusioni}{54}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Test e validazione}{54}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}Test di sistema}{55}{subsection.7.1.1}%
+\contentsline {section}{\numberline {7.2}Resoconto dello stage}{59}{section.7.2}%
+\contentsline {chapter}{Sitografia}{60}{chapter*.57}%
+\contentsline {chapter}{Glossario}{61}{chapter*.63}%
