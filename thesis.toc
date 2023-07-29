@@ -8,58 +8,55 @@
 \contentsline {section}{\numberline {2.1}Il problema}{4}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Il progetto}{4}{section.2.2}%
 \contentsline {section}{\numberline {2.3}Vincoli del progetto}{5}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}Vincoli temporali}{5}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}Vincoli metodologici}{6}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.3.3}Vincoli tecnologici}{6}{subsection.2.3.3}%
-\contentsline {chapter}{\numberline {3}Analisi dei requisiti}{7}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Casi d'uso}{7}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}UC0: Menu}{8}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.1.2}UC1: Crea-Modifica progetto}{9}{subsection.3.1.2}%
-\contentsline {subsection}{\numberline {3.1.3}UC2: Tabella progetti}{11}{subsection.3.1.3}%
-\contentsline {subsection}{\numberline {3.1.4}UC2.2: Visualizzazione lista progetti}{13}{subsection.3.1.4}%
-\contentsline {subsection}{\numberline {3.1.5}UC2.3: Visualizzazione progetto in dettaglio}{14}{subsection.3.1.5}%
-\contentsline {subsection}{\numberline {3.1.6}UC3: Tabella progetti aperti}{16}{subsection.3.1.6}%
-\contentsline {subsection}{\numberline {3.1.7}UC4: Tabella clienti}{17}{subsection.3.1.7}%
-\contentsline {subsection}{\numberline {3.1.8}UC4.2: Visualizzazione lista clienti}{18}{subsection.3.1.8}%
-\contentsline {subsection}{\numberline {3.1.9}UC4.3: Visualizzazione cliente in dettaglio}{19}{subsection.3.1.9}%
-\contentsline {subsection}{\numberline {3.1.10}UC4.3.3: Visualizzazione offerte correlate}{20}{subsection.3.1.10}%
-\contentsline {subsection}{\numberline {3.1.11}UC4.3.3.1: Crea-Modifica offerta}{21}{subsection.3.1.11}%
-\contentsline {subsection}{\numberline {3.1.12}UC5: Tabella offerte}{22}{subsection.3.1.12}%
-\contentsline {subsection}{\numberline {3.1.13}UC5.2: Visualizzazione lista offerte}{23}{subsection.3.1.13}%
-\contentsline {subsection}{\numberline {3.1.14}UC5.3: Visualizzazione offerta in dettaglio}{24}{subsection.3.1.14}%
-\contentsline {section}{\numberline {3.2}Definizione e tracciamento dei requisiti}{26}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Requisiti funzionali}{27}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Requisiti di vincolo}{30}{subsection.3.2.2}%
-\contentsline {chapter}{\numberline {4}Strumenti utilizzati}{31}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Ambiente di lavoro}{31}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Framework}{32}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Spring (core)}{32}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}Hibernate}{33}{subsection.4.2.2}%
-\contentsline {subsection}{\numberline {4.2.3}Bootstrap}{33}{subsection.4.2.3}%
-\contentsline {subsection}{\numberline {4.2.4}Apache Struts}{34}{subsection.4.2.4}%
-\contentsline {section}{\numberline {4.3}Linguaggi utilizzati}{35}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}Java}{35}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}HTML5, CSS3 e JavaScript}{35}{subsection.4.3.2}%
-\contentsline {section}{\numberline {4.4}Librerie a supporto della codifica}{36}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}Apache Commons}{36}{subsection.4.4.1}%
-\contentsline {subsection}{\numberline {4.4.2}JSTL}{36}{subsection.4.4.2}%
-\contentsline {section}{\numberline {4.5}IDE}{37}{section.4.5}%
-\contentsline {chapter}{\numberline {5}Progettazione}{38}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Approccio MDA}{38}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Architettura MVC}{41}{section.5.2}%
-\contentsline {chapter}{\numberline {6}Prodotto finale}{44}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Menu}{44}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Creazione di un progetto}{45}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Tabella progetti}{46}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Dettaglio di un progetto}{47}{section.6.4}%
-\contentsline {section}{\numberline {6.5}Tabella progetti aperti}{48}{section.6.5}%
-\contentsline {section}{\numberline {6.6}Tabella clienti}{49}{section.6.6}%
-\contentsline {section}{\numberline {6.7}Dettaglio di un cliente}{50}{section.6.7}%
-\contentsline {section}{\numberline {6.8}Tabella offerte}{52}{section.6.8}%
-\contentsline {section}{\numberline {6.9}Dettaglio di un'offerta}{53}{section.6.9}%
-\contentsline {chapter}{\numberline {7}Conclusioni}{54}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Test e validazione}{54}{section.7.1}%
-\contentsline {subsection}{\numberline {7.1.1}Test di sistema}{55}{subsection.7.1.1}%
-\contentsline {section}{\numberline {7.2}Resoconto dello stage}{59}{section.7.2}%
-\contentsline {chapter}{Sitografia}{60}{chapter*.59}%
-\contentsline {chapter}{Glossario}{61}{chapter*.65}%
+\contentsline {chapter}{\numberline {3}Analisi dei requisiti}{6}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Casi d'uso}{6}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}UC0: Menu}{7}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}UC1: Crea-Modifica progetto}{8}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}UC2: Tabella progetti}{9}{subsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.1.4}UC2.2: Visualizzazione lista progetti}{11}{subsection.3.1.4}%
+\contentsline {subsection}{\numberline {3.1.5}UC2.3: Visualizzazione progetto in dettaglio}{12}{subsection.3.1.5}%
+\contentsline {subsection}{\numberline {3.1.6}UC3: Tabella progetti aperti}{13}{subsection.3.1.6}%
+\contentsline {subsection}{\numberline {3.1.7}UC4: Tabella clienti}{14}{subsection.3.1.7}%
+\contentsline {subsection}{\numberline {3.1.8}UC4.2: Visualizzazione lista clienti}{15}{subsection.3.1.8}%
+\contentsline {subsection}{\numberline {3.1.9}UC4.3: Visualizzazione cliente in dettaglio}{15}{subsection.3.1.9}%
+\contentsline {subsection}{\numberline {3.1.10}UC4.3.3: Visualizzazione offerte correlate}{16}{subsection.3.1.10}%
+\contentsline {subsection}{\numberline {3.1.11}UC4.3.3.1: Crea-Modifica offerta}{17}{subsection.3.1.11}%
+\contentsline {subsection}{\numberline {3.1.12}UC5: Tabella offerte}{18}{subsection.3.1.12}%
+\contentsline {subsection}{\numberline {3.1.13}UC5.2: Visualizzazione lista offerte}{19}{subsection.3.1.13}%
+\contentsline {subsection}{\numberline {3.1.14}UC5.3: Visualizzazione offerta in dettaglio}{20}{subsection.3.1.14}%
+\contentsline {section}{\numberline {3.2}Definizione e tracciamento dei requisiti}{21}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Requisiti funzionali}{22}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Requisiti di vincolo}{25}{subsection.3.2.2}%
+\contentsline {chapter}{\numberline {4}Strumenti utilizzati}{26}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Ambiente di lavoro}{26}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Framework}{27}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Spring (core)}{27}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Hibernate}{28}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Bootstrap}{28}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}Apache Struts}{29}{subsection.4.2.4}%
+\contentsline {section}{\numberline {4.3}Linguaggi utilizzati}{30}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Java}{30}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}HTML5, CSS3 e JavaScript}{30}{subsection.4.3.2}%
+\contentsline {section}{\numberline {4.4}Librerie a supporto della codifica}{31}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Apache Commons}{31}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}JSTL}{31}{subsection.4.4.2}%
+\contentsline {section}{\numberline {4.5}IDE}{32}{section.4.5}%
+\contentsline {chapter}{\numberline {5}Progettazione}{33}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Approccio MDA}{33}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Architettura MVC}{36}{section.5.2}%
+\contentsline {chapter}{\numberline {6}Prodotto finale}{39}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Menu}{39}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Creazione di un progetto}{40}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Tabella progetti}{41}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Dettaglio di un progetto}{42}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Tabella progetti aperti}{43}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Tabella clienti}{44}{section.6.6}%
+\contentsline {section}{\numberline {6.7}Dettaglio di un cliente}{45}{section.6.7}%
+\contentsline {section}{\numberline {6.8}Tabella offerte}{47}{section.6.8}%
+\contentsline {section}{\numberline {6.9}Dettaglio di un'offerta}{48}{section.6.9}%
+\contentsline {chapter}{\numberline {7}Conclusioni}{49}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Test e validazione}{49}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}Test di sistema}{50}{subsection.7.1.1}%
+\contentsline {section}{\numberline {7.2}Resoconto dello stage}{54}{section.7.2}%
+\contentsline {chapter}{Sitografia}{55}{chapter*.58}%
+\contentsline {chapter}{Glossario}{56}{chapter*.64}%

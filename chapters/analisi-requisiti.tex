@@ -27,6 +27,15 @@ L'unico attore coinvolto e identificato come \textit{Utente autenticato} corrisp
 
 \pagebreak
 
+\noindent L'applicativo messo a disposizione dell'utente consente di:
+\begin{itemize}
+\item \textbf{creare nuovi progetti}, corrispondenti a nuove opportunità di vendita per l'azienda;
+\item \textbf{visionare la lista completa dei progetti}. Per ogni progetto è inoltre possibile visualizzarne i dettagli e modificare o eliminare il progetto stesso;
+\item \textbf{visionare la lista completa dei progetti ancora aperti}, ovvero quelli ancora in sviluppo o in evoluzione;
+\item \textbf{visionare la lista completa dei clienti} e le loro informazioni specifiche;
+\item \textbf{visionare la lista completa delle offerte} formulate ai diversi clienti di CWBI per i progetti di loro interesse. Per ogni offerta è inoltre possibile visualizzarne i dettagli e modificare o eliminare l'offerta stessa.
+\end{itemize}  
+
 \subsection{UC0: Menu}
 \begin{figure}[!h]
 \centering
@@ -48,8 +57,6 @@ L'unico attore coinvolto e identificato come \textit{Utente autenticato} corrisp
 \end{enumerate}
 \end{itemize}
 
-\pagebreak
-
 \subsection{UC1: Crea-Modifica progetto}
 \begin{figure}[!h]
 \centering
@@ -65,6 +72,7 @@ L'unico attore coinvolto e identificato come \textit{Utente autenticato} corrisp
 \item l'opzione \textit{modifica} dal dettaglio di un progetto
 \end{itemize}
 \item \textbf{Postcondizione}: L'attore ha creato/modificato un progetto.
+\pagebreak
 \item \textbf{Scenario principale}: 
 \begin{enumerate}
 \item L'attore inserisce/modifica il codice del progetto [UC1.1].
@@ -83,14 +91,14 @@ L'unico attore coinvolto e identificato come \textit{Utente autenticato} corrisp
 \end{itemize} 
 \end{itemize}
 
-\pagebreak
-
 \subsection{UC2: Tabella progetti}
 \begin{figure}[!h]
 \centering
-\includegraphics[width=400px]{../images/UC/.jpeg/UC2.0-tabellaProgetti.jpg}
+\includegraphics[width=290px]{../images/UC/.jpeg/UC2.0-tabellaProgetti.jpg}
 \caption{UC2: Tabella progetti}
 \end{figure}
+
+\pagebreak
 
 \begin{itemize}
 \item \textbf{Attore primario}: Utente autenticato.
@@ -169,8 +177,6 @@ L'unico attore coinvolto e identificato come \textit{Utente autenticato} corrisp
 \end{enumerate}
 \end{itemize}
 
-\pagebreak
-
 \subsection{UC3: Tabella progetti aperti}
 \begin{figure}[!h]
 \centering
@@ -236,12 +242,10 @@ L'unico attore coinvolto e identificato come \textit{Utente autenticato} corrisp
 \end{enumerate}
 \end{itemize}
 
-\pagebreak
-
 \subsection{UC4.3: Visualizzazione cliente in dettaglio}
 \begin{figure}[!h]
 \centering
-\includegraphics[width=300px]{../images/UC/.jpeg/UC4.3.0-visualizzazioneDettaglioCliente.jpg}
+\includegraphics[width=275px]{../images/UC/.jpeg/UC4.3.0-visualizzazioneDettaglioCliente.jpg}
 \caption{UC4.3: Visualizzazione cliente in dettaglio}
 \end{figure}
 
@@ -259,8 +263,6 @@ L'unico attore coinvolto e identificato come \textit{Utente autenticato} corrisp
 \item L'attore visualizza le offerte correlate al cliente [UC4.3.3].
 \end{enumerate}
 \end{itemize}
-
-\pagebreak
 
 \subsection{UC4.3.3: Visualizzazione offerte correlate}
 \begin{figure}[!h]
@@ -379,6 +381,8 @@ L'unico attore coinvolto e identificato come \textit{Utente autenticato} corrisp
 \item \textbf{Attore primario}: Utente autenticato.
 \item \textbf{Precondizione}: L'attore ha accesso alla tabella delle offerte.
 \item \textbf{Postcondizione}: L'attore ha visualizzato il dettaglio di un'offerta.
+
+\pagebreak
 \item \textbf{Scenario principale}: 
 \begin{enumerate}
 \item L'attore visualizza l'ID dell'offerta [UC5.2.1].
@@ -396,11 +400,9 @@ L'unico attore coinvolto e identificato come \textit{Utente autenticato} corrisp
 \end{enumerate}
 \end{itemize}
 
-\pagebreak
-
 \section{Definizione e tracciamento dei requisiti}
 Per concordare gli obiettivi da raggiungere e i problemi da risolvere sono stati trovati una serie di requisiti. 
-Per identificare ciascun {\hyperref[para:requisito-definition]{requisito}}\glsfirstoccur \; si è ricorso ad un codice identificativo composto \textbf{R [F/V] O N} dove:
+Per identificare ciascun {\hyperref[para:requisito-definition]{requisito}}\glsfirstoccur \; si è ricorso ad un codice identificativo composto da \textbf{R [F/V] O N} dove:
 \begin{itemize}
 \item \textbf{R} = requisito;
 \item \textbf{F} = funzionale;
