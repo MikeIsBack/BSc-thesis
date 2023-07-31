@@ -34,29 +34,29 @@
 \contentsline {subsection}{\numberline {4.2.2}Hibernate}{28}{subsection.4.2.2}%
 \contentsline {subsection}{\numberline {4.2.3}Bootstrap}{28}{subsection.4.2.3}%
 \contentsline {subsection}{\numberline {4.2.4}Apache Struts}{29}{subsection.4.2.4}%
-\contentsline {section}{\numberline {4.3}Linguaggi utilizzati}{30}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}Java}{30}{subsection.4.3.1}%
+\contentsline {section}{\numberline {4.3}Linguaggi utilizzati}{29}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Java}{29}{subsection.4.3.1}%
 \contentsline {subsection}{\numberline {4.3.2}HTML5, CSS3 e JavaScript}{30}{subsection.4.3.2}%
-\contentsline {section}{\numberline {4.4}Librerie a supporto della codifica}{31}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}Apache Commons}{31}{subsection.4.4.1}%
+\contentsline {section}{\numberline {4.4}Librerie a supporto della codifica}{30}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Apache Commons}{30}{subsection.4.4.1}%
 \contentsline {subsection}{\numberline {4.4.2}JSTL}{31}{subsection.4.4.2}%
-\contentsline {section}{\numberline {4.5}IDE}{32}{section.4.5}%
-\contentsline {chapter}{\numberline {5}Progettazione}{33}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Approccio MDA}{33}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Architettura MVC}{36}{section.5.2}%
-\contentsline {chapter}{\numberline {6}Prodotto finale}{39}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Menu}{39}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Creazione di un progetto}{40}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Tabella progetti}{41}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Dettaglio di un progetto}{42}{section.6.4}%
-\contentsline {section}{\numberline {6.5}Tabella progetti aperti}{43}{section.6.5}%
-\contentsline {section}{\numberline {6.6}Tabella clienti}{44}{section.6.6}%
-\contentsline {section}{\numberline {6.7}Dettaglio di un cliente}{45}{section.6.7}%
-\contentsline {section}{\numberline {6.8}Tabella offerte}{47}{section.6.8}%
-\contentsline {section}{\numberline {6.9}Dettaglio di un'offerta}{48}{section.6.9}%
-\contentsline {chapter}{\numberline {7}Conclusioni}{49}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Test e validazione}{49}{section.7.1}%
-\contentsline {subsection}{\numberline {7.1.1}Test di sistema}{50}{subsection.7.1.1}%
-\contentsline {section}{\numberline {7.2}Resoconto dello stage}{54}{section.7.2}%
-\contentsline {chapter}{Sitografia}{55}{chapter*.58}%
-\contentsline {chapter}{Glossario}{56}{chapter*.64}%
+\contentsline {section}{\numberline {4.5}IDE}{31}{section.4.5}%
+\contentsline {chapter}{\numberline {5}Progettazione}{32}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Approccio MDA}{32}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Architettura MVC}{35}{section.5.2}%
+\contentsline {chapter}{\numberline {6}Prodotto finale}{38}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Menu}{38}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Creazione di un progetto}{39}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Tabella progetti}{40}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Dettaglio di un progetto}{41}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Tabella progetti aperti}{42}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Tabella clienti}{43}{section.6.6}%
+\contentsline {section}{\numberline {6.7}Dettaglio di un cliente}{44}{section.6.7}%
+\contentsline {section}{\numberline {6.8}Tabella offerte}{46}{section.6.8}%
+\contentsline {section}{\numberline {6.9}Dettaglio di un'offerta}{47}{section.6.9}%
+\contentsline {chapter}{\numberline {7}Conclusioni}{48}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Test e validazione}{48}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}Test di sistema}{49}{subsection.7.1.1}%
+\contentsline {section}{\numberline {7.2}Resoconto dello stage}{53}{section.7.2}%
+\contentsline {chapter}{Sitografia}{54}{chapter*.58}%
+\contentsline {chapter}{Glossario}{55}{chapter*.64}%
