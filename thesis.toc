@@ -50,13 +50,13 @@
 \contentsline {section}{\numberline {6.3}Tabella progetti}{40}{section.6.3}%
 \contentsline {section}{\numberline {6.4}Dettaglio di un progetto}{41}{section.6.4}%
 \contentsline {section}{\numberline {6.5}Tabella progetti aperti}{42}{section.6.5}%
-\contentsline {section}{\numberline {6.6}Tabella clienti}{43}{section.6.6}%
-\contentsline {section}{\numberline {6.7}Dettaglio di un cliente}{44}{section.6.7}%
-\contentsline {section}{\numberline {6.8}Tabella offerte}{46}{section.6.8}%
-\contentsline {section}{\numberline {6.9}Dettaglio di un'offerta}{47}{section.6.9}%
-\contentsline {chapter}{\numberline {7}Conclusioni}{48}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Test e validazione}{48}{section.7.1}%
-\contentsline {subsection}{\numberline {7.1.1}Test di sistema}{49}{subsection.7.1.1}%
-\contentsline {section}{\numberline {7.2}Resoconto dello stage}{53}{section.7.2}%
-\contentsline {chapter}{Sitografia}{54}{chapter*.58}%
-\contentsline {chapter}{Glossario}{55}{chapter*.64}%
+\contentsline {section}{\numberline {6.6}Tabella clienti}{42}{section.6.6}%
+\contentsline {section}{\numberline {6.7}Dettaglio di un cliente}{43}{section.6.7}%
+\contentsline {section}{\numberline {6.8}Tabella offerte}{45}{section.6.8}%
+\contentsline {section}{\numberline {6.9}Dettaglio di un'offerta}{46}{section.6.9}%
+\contentsline {chapter}{\numberline {7}Conclusioni}{47}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Test e validazione}{47}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}Test di sistema}{48}{subsection.7.1.1}%
+\contentsline {section}{\numberline {7.2}Resoconto dello stage}{52}{section.7.2}%
+\contentsline {chapter}{Sitografia}{53}{chapter*.58}%
+\contentsline {chapter}{Glossario}{54}{chapter*.64}%
