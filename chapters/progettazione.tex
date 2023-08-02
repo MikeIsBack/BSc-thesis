@@ -1,12 +1,12 @@
 \chapter{Progettazione}
 \label{cap:progettazione}
 
-\intro{Il seguente capitolo ha la funzione di illustrare l'approccio alla progettazione e all'architettura del sistema commissionato.}
+\intro{Il seguente capitolo ha la funzione di illustrare l'approccio alla progettazione del sistema commissionato. Viene inoltre descritta l'architettura dell'intero sistema.}
 
 \setlength{\parskip}{3ex}
 
 \section{Approccio MDA}
-La filosofia dell'azienda per fronteggiare nuove attività e progetti si basa su un approccio di tipo MDA (Model Driven Architecture). L'idea alla base di tale approccio risiede nel fatto che il cuore di ogni applicazione si traduce in un modello solido e ben strutturato. 
+La filosofia dell'azienda per fronteggiare nuove attività e progetti si basa su un approccio di tipo \textbf{MDA (Model Driven Architecture)}. L'idea alla base di tale approccio risiede nel fatto che il cuore di ogni applicazione si traduce in un modello solido e ben strutturato. 
 
 \setlength{\parskip}{3ex}
 
@@ -38,7 +38,7 @@ La filosofia dell'azienda per fronteggiare nuove attività e progetti si basa su
 \item \textit{idReferente} corrisponde all'identificativo di un dipendente di CWBI che assume il ruolo di responsabile del progetto;
 \item \textit{codice} corrisponde all'identificativo del progetto (es. 2023.70);
 \item \textit{titolo} corrisponde al titolo del progetto;
-\item \textit{descrizione} corrisponde alla descrizione generale  progetto che illustra l'obiettivo e le funzionalità offerte;
+\item \textit{descrizione} corrisponde alla descrizione generale del progetto, composta da obiettivi e funzionalità del sistema;
 \item \textit{statoAvanzamento} corrisponde allo stato attuale  del progetto. Lo stato può assumere i seguenti valori: {aperto, chiuso, approvato, rifiutato, sospeso};
 \item \textit{giorni} corrisponde ai giorni di sviluppo previsti per portare a termine il progetto;
 \item \textit{percentualeAvanzamento} corrisponde alla percentuale di avanzamento delle attività di progetto;
@@ -114,7 +114,7 @@ La filosofia dell'azienda per fronteggiare nuove attività e progetti si basa su
 
 \section{Architettura MVC}
 Come citato in precedenza, il framework Apache Struts mette a disposizione un'architettura \textbf{MVC} (Model View Controller) per costruire applicazioni web. \\
-L'architettura di Struts non si differenzia particolarmente dalla filosofia del tradizionale MVC: il controller gestisce tutte le operazioni della sistema e ha un riferimento sia al modello sia alla vista. 
+L'architettura di Struts non si differenzia particolarmente dalla filosofia della tradizionale MVC: il controller gestisce tutte le operazioni della sistema e ha un riferimento sia al modello sia alla vista. 
 
 \setlength{\parskip}{3ex}
 
@@ -150,7 +150,7 @@ In particolare ogni modello è caratterizzato da n action che gestiscono le n fu
 
 \setlength{\parskip}{2ex}
 
-Nel dettaglio, ciascuna action ha visibilità delle classi \textit{service}, una per ciascun modello di interesse, necessarie per recuperare i dati del modello dal database. Questo avviene invocando le opportune query SQL costruite mediante il framework Hibernate e esposte dalla classe service in modo che queste possano essere utilizzate dalle opportune action per recuperare i dati di interesse dal database.
+Nel dettaglio, ciascuna action ha visibilità delle classi \textit{service}, una per ciascun modello di interesse, necessarie per recuperare i dati del modello dal database. Questo avviene invocando le opportune query SQL costruite mediante il framework Hibernate e esposte dalla classe \textit{service} in modo che queste possano essere utilizzate dalle opportune action per recuperare i dati di interesse dal database.
 
 \setlength{\parskip}{3ex}
 
@@ -184,7 +184,7 @@ Nel dettaglio, ciascuna action ha visibilità delle classi \textit{service}, una
 
 \item ActionProxy legge il file di configurazione (struts.xml). ActionProxy crea un'istanza della classe ActionInvocation e delega il controllo.
 
-\item ActionInvocation gli Interceptor uno per uno (se richiesto) e quindi invoca la action;
+\item ActionInvocation richiama gli Interceptor uno per uno (se richiesto) e quindi invoca la action;
 
 \item la action ritorna il risultato, gli Interceptor vengono eseguiti nuovamente in ordine inverso e la risposta viene restituita a FilterDispatcher;
 
