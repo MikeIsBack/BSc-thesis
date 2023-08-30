@@ -1,12 +1,12 @@
 \chapter{Strumenti utilizzati}
 \label{cap:strumenti-utilizzati}
 
-\intro{Il seguente capitolo ha la funzione di introdurre tutti gli strumenti utilizzati come supporto alle attività di sviluppo dell'applicativo, tra cui: ambiente di lavoro, framework, linguaggi, librerie a supporto della codifica e IDE. Tutte le  tecnologie elencate rappresentano vincolo di sviluppo del progetto.}
+\intro{Il seguente capitolo ha la funzione di introdurre tutti gli strumenti utilizzati come supporto alle attività di sviluppo dell'applicativo, tra cui ambiente di lavoro, framework, linguaggi, librerie a supporto della codifica e IDE. Tutte le  tecnologie elencate rappresentano vincolo di sviluppo del progetto.}
 
 \setlength{\parskip}{3ex}
 
 \section{Ambiente di lavoro}
-CWBI ha a disposizione circa 30 macchine fisiche con sistema operativo Debian, ciascuna delle quali viene utilizzata come supporto per delle macchine virtuali in ambiente Windows 7. Il lavoro quotidiano viene svolto in ambiente virtuale e non fisico; per la connessione alla propria macchina virtuale viene utilizzato il software \textit{VMware Workstation}. Il vantaggio nell'utilizzare macchine virtuali sta nel fatto che tutti i dipendenti presentano la medesima configurazione dell'ambiente di sviluppo e, essendo il lavoro in azienda molto collaborativo, al presentarsi di un problema o di un dubbio sul "cosa fare" i colleghi possono connettersi alla macchina virtuale dove si è presentato il problema per aiutare e velocizzare lo scambio di idee sul come fare.
+CWBI ha a disposizione circa 30 macchine fisiche con sistema operativo Debian, ciascuna delle quali viene utilizzata come supporto per delle macchine virtuali in ambiente Windows 7. Il lavoro quotidiano viene svolto in ambiente virtuale e non fisico; per la connessione alla propria macchina virtuale viene utilizzato il software \textit{VMware Workstation}. Il vantaggio nell'utilizzare macchine virtuali sta nel fatto che tutti i dipendenti presentano la medesima configurazione dell'ambiente di sviluppo e, essendo il lavoro in azienda molto collaborativo, al presentarsi di un problema o di un dubbio sul "cosa fare" i colleghi possono connettersi alla macchina virtuale dove si è presentato il problema per aiutare e velocizzare lo scambio di idee sul problema in questione.
 
 \pagebreak
 
@@ -37,7 +37,7 @@ Nella seguente sezione sono riportati i {\hyperref[para:framework-definition]{fr
 
 \begin{enumerate}
 \item il modulo bean fornisce le classi factory per l’istanziazione dei bean;
-\item il modulo core è la componente fondamentale del framework ed implementa la Dependency Injection;
+\item il modulo core è la componente fondamentale del framework;
 \item il modulo context fornisce l’accesso a tutti i bean definiti in funzione dei relativi contesti;
 \item il modulo SpEL fornisce un expression language per la manipolazione dei bean a runtime.
 \end{enumerate}
@@ -77,7 +77,7 @@ Nella seguente sezione sono riportati i {\hyperref[para:framework-definition]{fr
 \setlength{\parskip}{3ex}
 
 \noindent Gli stili che bootstrap propone sono ottimizzati per la visualizzazione smartphone, tablet e desktop. Inoltre, dato che la maggior parte degli accessi ad applicativi web avviene tramite cellulare, il framework mette al primo posto il layout per smartphone.\\
-Bootstrap è inoltre compatibile con i browser più moderni.
+Bootstrap è inoltre compatibile con i browser più moderni, quali Google Chrome, Firefox, Microsoft Edge, Opera, Safari.
 
 \pagebreak
 
@@ -90,7 +90,7 @@ Bootstrap è inoltre compatibile con i browser più moderni.
 	\label{fig:AStruts}
 \end{figure}
 
-\noindent {\hyperref[para:struts-site]{Apache Struts}}\ap{{[b]}} (logo in {\hyperref[fig:AStruts]{figura 4.5}}) è un framework open source Java che aiuta gli sviluppatori a creare applicazioni web flessibili, gestibili e sicure in Java. Il framework è caratterizzato da un architettura MVC che consente di raccogliere le richieste provenienti dalla vista e richiamare attraverso il controller le operazioni del modello necessarie a rendere persistenti i dati nel database. Tale architettura si integra con il framework Spring sopra citato.
+\noindent {\hyperref[para:struts-site]{Apache Struts}}\ap{{[b]}} (logo in {\hyperref[fig:AStruts]{figura 4.5}}) è un framework open source Java che aiuta gli sviluppatori a creare applicazioni web flessibili, gestibili e sicure in Java. Il framework mette a disposizione dello sviluppatore un architettura MVC che consente di raccogliere le richieste provenienti dalla vista e richiamare attraverso il controller le operazioni del modello necessarie a rendere persistenti i dati nel database. Tale architettura si integra con il framework Spring sopra citato.
 
 \section{Linguaggi utilizzati}
 Nella seguente sezione sono riportati i linguaggi utilizzati nella codifica dell'applicativo commissionato.
@@ -104,7 +104,7 @@ Nella seguente sezione sono riportati i linguaggi utilizzati nella codifica dell
 	\label{fig:java}
 \end{figure}
 
-\noindent Per lo sviluppo dell'applicativo lato back-end si è utilizzato Java (logo in {\hyperref[fig:java]{figura 4.6}}), un linguaggio di programmazione orientato agli oggetti. La caratteristica principale di questo linguaggio risiede nel rendere indipendente la scrittura di codice dall'ambiente di esecuzione fisico instanziando un ambiente di esecuzione virtuale del codice noto come JVM.
+\noindent Per lo sviluppo dell'applicativo lato back-end si è utilizzato Java (logo in {\hyperref[fig:java]{figura 4.6}}), un linguaggio di programmazione orientato agli oggetti. La caratteristica principale di questo linguaggio risiede nel rendere indipendente la scrittura di codice dall'ambiente di esecuzione fisico instanziando un ambiente di esecuzione virtuale del codice noto come JVM. Questo consente di rendere portabili le applicazioni nei diversi ambienti di esecuzione senza modificare il codice.
 
 \subsection{HTML5, CSS3 e JavaScript}
 
@@ -163,5 +163,6 @@ Tra le diverse funzionalità offerte da questo ambiente troviamo:
 \item importare un progetto esistente;
 \item creare un nuovo progetto;
 \item attività di refactor;
-\item attività di debugging.
+\item attività di debugging;
+\item integrazione con il sistema di versionamento aziendale (TortoiseSVN).
 \end{itemize}
